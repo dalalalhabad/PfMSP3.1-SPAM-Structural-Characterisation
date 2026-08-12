@@ -1,0 +1,58 @@
+# macOS
+.DS_Store
+
+# GROMACS backup/temp files
+#*
+*~
+*.bak
+*.tmp
+
+# Large MD trajectory files
+*.xtc
+*.trr
+
+# Checkpoint files
+*.cpt
+
+# Energy files
+*.edr
+
+# Python
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+# macOS
+.DS_Store
+
+# GROMACS backup/temp files
+#*
+*~
+*.bak
+*.tmp
+
+# Large MD trajectory files
+*.xtc
+*.trr
+
+# Checkpoint files
+*.cpt
+
+# Energy files
+*.edr
+
+# Python
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editor files
+.vscode/
+.idea/
