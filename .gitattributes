@@ -1,2 +1,44 @@
-# Auto detect text files and perform LF normalization
+# Automatically detect text files and normalise line endings
 * text=auto
+
+# Shell scripts
+*.sh text eol=lf
+
+# R scripts
+*.R text eol=lf
+
+# Python scripts
+*.py text eol=lf
+
+# GROMACS parameter and topology files
+*.mdp text eol=lf
+*.top text eol=lf
+*.itp text eol=lf
+*.ndx text eol=lf
+
+# GROMACS analysis output
+*.xvg text eol=lf
+
+# Structural coordinate files
+*.pdb text eol=lf
+*.gro text eol=lf
+
+# Documentation and data tables
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.tsv text eol=lf
+
+# Molecular visualisation scripts
+*.pml text eol=lf
+*.tcl text eol=lf
+
+# Binary/document files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.doc binary
+*.docx binary
+*.pptx binary
+*.xlsx binary
