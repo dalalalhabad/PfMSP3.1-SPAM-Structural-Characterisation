@@ -1,0 +1,20 @@
+Covariance analysis log, written Mon Aug 10 16:35:53 2026
+
+Program: covar
+Working directory: /data/group/chenlab/home/18201791/SPAM_MD
+
+Read 25001 frames from SPAM_250ns_fit.xtc (time 0 to 250000 ps)
+Read reference structure for fit from md_250ns.tpr
+
+Analysis group is 'C-alpha' (121 atoms)
+Fit group is 'C-alpha' (121 atoms)
+Analysis is non-mass weighted
+Fit is non-mass weighted
+Diagonalized the 363x363 covariance matrix
+Trace of the covariance matrix before diagonalizing: 319.144
+Trace of the covariance matrix after diagonalizing: 319.144
+
+Wrote 363 eigenvalues to eigenval_250ns.xvg
+Wrote reference structure to eigenvec_250ns.trr
+Wrote average structure to average_250ns.pdb and eigenvec_250ns.trr
+Wrote eigenvectors 1 to 363 to eigenvec_250ns.trr

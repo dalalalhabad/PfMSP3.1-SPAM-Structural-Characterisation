@@ -1,0 +1,52 @@
+ID   A0A8G1DNL0_PLAFA        Unreviewed;       121 AA.
+AC   A0A8G1DNL0;
+DT   19-JAN-2022, integrated into UniProtKB/TrEMBL.
+DT   19-JAN-2022, sequence version 1.
+DT   28-JAN-2026, entry version 4.
+DE   SubName: Full=Merozoite surface protein 3 {ECO:0000313|EMBL:QYY47747.1};
+DE   Flags: Fragment;
+OS   Plasmodium falciparum (malaria parasite P. falciparum).
+OC   Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+OC   Plasmodiidae; Plasmodium; Plasmodium (Laverania).
+OX   NCBI_TaxID=5833 {ECO:0000313|EMBL:QYY47747.1};
+RN   [1] {ECO:0000313|EMBL:QYY47747.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=M3-6 {ECO:0000313|EMBL:QYY47747.1};
+RX   PubMed=33138831;
+RA   Le H.G., Kang J.M., Lee J., Yoo W.G., Myint M.K., Lin K., Kim T.S.,
+RA   Na B.K.;
+RT   "Genetic variations in histidine-rich protein 2 and histidine-rich protein
+RT   3 of Myanmar Plasmodium falciparum isolates.";
+RL   Malar. J. 19:0-0(0).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; MT591444; QYY47747.1; -; Genomic_DNA.
+DR   AlphaFoldDB; A0A8G1DNL0; -.
+PE   4: Predicted;
+KW   Merozoite {ECO:0000313|EMBL:QYY47747.1}.
+FT   REGION          1..37
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          68..121
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        13..25
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        26..35
+FT                   /note="Basic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        68..111
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   NON_TER         1
+FT                   /evidence="ECO:0000313|EMBL:QYY47747.1"
+FT   NON_TER         121
+FT                   /evidence="ECO:0000313|EMBL:QYY47747.1"
+SQ   SEQUENCE   121 AA;  13141 MW;  E68C5C84F1BF526F CRC64;
+     NSSLLHESQA HAGDAHHAHH VADAHHAHHA HHAANAHHAA DANHGFHFNL HDNNSHTLHH
+     AKANACFDDS HHDDAHHDGA HHDDAHHDGA HHDDAHHDGA HHDGAHHDGA HHNATTHHRS
+     G
+//

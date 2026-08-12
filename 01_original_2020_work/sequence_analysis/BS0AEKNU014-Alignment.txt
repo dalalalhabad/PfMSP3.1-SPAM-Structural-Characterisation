@@ -1,0 +1,3333 @@
+RID: BS0AEKNU014	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: unnamed protein product Query ID: lcl|Query_42437 Length: 139
+
+Sequences producing significant alignments:
+                                                                  Max    Total Query   E   Per.                  
+Description                                                       Score  Score cover Value Ident  Accession        
+merozoite surface protein 3 [Plasmodium falciparum]               259    259   100%  2e-88 100.00 AMM75908.1       
+merozoite surface protein 3 [Plasmodium falciparum]               261    261   100%  3e-88 100.00 CAJ44204.1       
+merozoite surface protein 3 [Plasmodium falciparum]               261    261   100%  4e-88 100.00 CAJ44175.1       
+merozoite surface protein 3 [Plasmodium falciparum]               261    261   100%  4e-88 100.00 CAJ44172.1       
+hypothetical protein PFTANZ_05884 [Plasmodium falciparum...       259    259   100%  1e-87 100.00 ETW33393.1       
+polymorphic antigen [Plasmodium falciparum]                       261    261   100%  2e-87 100.00 AAC09378.1       
+merozoite surface protein 3 [Plasmodium falciparum]               259    259   100%  2e-87 99.28  CAJ44170.1       
+hypothetical protein PFNF135_03204 [Plasmodium falciparum...      259    259   100%  1e-86 99.28  ETW42545.1       
+merozoite surface protein-3 [Plasmodium falciparum]               244    244   96%   3e-84 100.00 AEI28735.1       
+merozoite surface protein-3 [Plasmodium falciparum]               244    244   96%   4e-84 100.00 AEI28720.1       
+merozoite surface protein 3 [Plasmodium falciparum]               240    240   100%  3e-81 93.53  AMM75921.1       
+merozoite surface protein 3 [Plasmodium falciparum]               240    240   100%  7e-81 93.53  AMM75895.1       
+merozoite surface protein 3 [Plasmodium falciparum]               240    240   100%  1e-80 93.53  AMM75920.1       
+merozoite surface protein 3 [Plasmodium falciparum]               240    240   100%  1e-80 93.53  AMM75896.1       
+merozoite surface protein 3 [Plasmodium falciparum]               241    241   100%  1e-80 93.53  AMM75894.1       
+merozoite surface protein 3 [Plasmodium falciparum]               241    241   100%  1e-80 93.53  CAJ44201.1       
+merozoite surface protein 3 [Plasmodium falciparum]               240    240   100%  2e-80 93.53  AMM75909.1       
+merozoite surface protein 3 [Plasmodium falciparum]               241    241   100%  2e-80 93.53  CAJ44202.1       
+merozoite surface protein 3 [Plasmodium falciparum]               241    241   100%  2e-80 93.53  CAJ44203.1       
+merozoite surface protein-3 [Plasmodium falciparum]               223    223   88%   6e-76 100.00 AOT86946.1       
+merozoite surface protein-3 [Plasmodium falciparum]               220    220   88%   4e-75 99.19  AOT86947.1       
+merozoite surface protein 3 [Plasmodium falciparum]               216    216   84%   1e-72 100.00 AAF59915.1       
+merozoite surface protein 3 [Plasmodium falciparum]               202    202   100%  2e-66 82.73  AMM75922.1       
+merozoite surface protein 3 [Plasmodium falciparum]               201    201   100%  4e-65 82.01  AMM75930.1       
+merozoite surface protein 3 [Plasmodium falciparum]               201    201   100%  4e-65 82.01  AMM75899.1       
+merozoite surface protein 3 [Plasmodium falciparum]               201    201   100%  5e-65 82.01  AMM75903.1       
+merozoite surface protein 3 [Plasmodium falciparum]               201    201   100%  6e-65 82.01  AMM75906.1       
+merozoite surface protein 3 [Plasmodium falciparum]               202    202   100%  6e-65 82.01  CAJ44167.1       
+merozoite surface protein 3 [Plasmodium falciparum]               202    202   100%  6e-65 82.01  CAJ44162.1       
+merozoite surface protein 3 [Plasmodium falciparum]               202    202   100%  7e-65 82.01  CAJ44165.1       
+merozoite surface protein 3 [Plasmodium falciparum]               202    202   100%  7e-65 82.01  CAJ44200.1       
+merozoite surface protein 3 [Plasmodium falciparum]               202    202   100%  7e-65 82.01  CAJ44166.1       
+merozoite surface protein 3 [Plasmodium falciparum]               201    201   100%  2e-64 81.29  CAJ44169.1       
+polymorphic antigen [Plasmodium falciparum]                       202    202   100%  2e-64 82.01  AAF04099.1       
+polymorphic antigen [Plasmodium falciparum]                       202    202   100%  2e-64 82.01  AAC47832.1       
+merozoite surface protein-3 [Plasmodium falciparum]               187    187   96%   1e-61 81.34  AEI28718.1       
+merozoite surface protein 3 [Plasmodium falciparum]               189    189   96%   1e-61 81.34  AAC47677.1       
+merozoite surface protein-3 [Plasmodium falciparum]               187    187   96%   2e-61 81.34  AEI28723.1       
+merozoite surface protein-3 [Plasmodium falciparum]               186    186   96%   4e-61 80.60  AEI28719.1       
+merozoite surface protein-3 [Plasmodium falciparum]               186    186   96%   5e-61 80.60  AEI28729.1       
+merozoite surface protein 3 [Plasmodium falciparum]               185    185   96%   3e-60 80.60  AAC47678.1       
+merozoite surface protein 3 [Plasmodium falciparum]               182    182   92%   2e-57 82.95  CAJ44185.1       
+merozoite surface protein 3 [Plasmodium falciparum]               170    170   66%   8e-55 100.00 AWH67847.1       
+merozoite surface protein-3 [Plasmodium falciparum]               165    165   88%   3e-53 79.67  AOT86948.1       
+merozoite surface protein-3 [Plasmodium falciparum]               164    164   88%   9e-53 78.86  AOT86949.1       
+merozoite surface protein 3 [Plasmodium falciparum]               156    156   84%   1e-49 78.63  AWH67846.1       
+merozoite surface protein 3 [Plasmodium falciparum]               159    159   100%  3e-49 72.66  AMM75893.1       
+merozoite surface protein 3 [Plasmodium falciparum]               159    159   100%  6e-49 72.66  AMM75931.1       
+merozoite surface protein 3 [Plasmodium falciparum]               159    159   100%  7e-49 72.66  AMM75907.1       
+merozoite surface protein 3 [Plasmodium falciparum]               159    159   100%  7e-49 72.66  AMM75910.1       
+merozoite surface protein 3 [Plasmodium falciparum]               159    159   100%  7e-49 72.66  AMM75897.1       
+merozoite surface protein 3 [Plasmodium falciparum]               160    160   100%  8e-49 72.66  AMM75915.1       
+merozoite surface protein 3 [Plasmodium falciparum]               159    159   100%  8e-49 72.66  AMM75898.1       
+merozoite surface protein 3 [Plasmodium falciparum]               159    159   100%  1e-48 72.66  AMM75905.1       
+merozoite surface protein 3 [Plasmodium falciparum]               159    159   100%  1e-48 72.66  AMM75901.1       
+merozoite surface protein 3 [Plasmodium falciparum]               160    160   100%  1e-48 72.66  AMM75913.1       
+merozoite surface protein 3 [Plasmodium falciparum]               160    160   100%  1e-48 72.66  CAJ44194.1       
+merozoite surface protein 3 [Plasmodium falciparum]               160    160   100%  2e-48 72.66  CAJ44136.1       
+merozoite surface protein 3 [Plasmodium falciparum]               160    160   100%  2e-48 72.66  CAJ44151.1       
+merozoite surface protein 3 [Plasmodium falciparum]               160    160   100%  2e-48 72.66  CAJ44190.1       
+merozoite surface protein 3 [Plasmodium falciparum]               160    160   100%  2e-48 72.66  CAJ44193.1       
+merozoite surface protein 3 [Plasmodium falciparum]               160    160   100%  2e-48 72.66  CAJ44157.1       
+merozoite surface protein 3 [Plasmodium falciparum]               159    159   100%  2e-48 72.66  CAJ44195.1       
+merozoite surface protein 3 [Plasmodium falciparum]               160    160   100%  2e-48 72.66  CAJ44161.1       
+merozoite surface protein 3 [Plasmodium falciparum]               154    154   92%   3e-48 83.72  AWH67845.1       
+merozoite surface protein 3 precursor [Plasmodium falciparum]     160    160   100%  3e-48 72.66  AAK94780.1       
+hypothetical protein PFFVO_03054 [Plasmodium falciparum Vietna... 160    160   100%  4e-48 72.66  ETW18164.1       
+polymorphic antigen [Plasmodium falciparum]                       160    160   100%  5e-48 72.66  AAC47831.1       
+merozoite surface protein-3 [Plasmodium falciparum]               154    154   92%   6e-48 83.72  QCP70366.1       
+merozoite surface protein 3 [Plasmodium falciparum]               157    157   100%  1e-47 71.94  CAJ44149.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   2e-47 83.72  AMM75923.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   2e-47 83.72  AMM75924.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   2e-47 83.72  AMM75918.1       
+merozoite surface protein 3 [Plasmodium falciparum]               154    154   92%   2e-47 83.72  AMM75926.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   2e-47 83.72  AMM75925.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   2e-47 83.72  AMM75927.1       
+merozoite surface protein 3 [Plasmodium falciparum]               154    154   92%   2e-47 83.72  AMM75911.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   3e-47 83.72  AMM75912.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   3e-47 83.72  AMM75900.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   3e-47 83.72  AMM75914.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   3e-47 83.72  AMM75892.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   3e-47 83.72  AMM75916.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   3e-47 83.72  AMM75919.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   3e-47 83.72  AMM75917.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   3e-47 83.72  AMM75902.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   4e-47 83.72  AMM75904.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   4e-47 83.72  CAJ44226.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   4e-47 83.72  CAJ44215.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   4e-47 83.72  CAJ44217.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   4e-47 83.72  CAJ44224.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   4e-47 83.72  CAJ44214.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   4e-47 83.72  CAJ44210.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   5e-47 82.95  CAJ44207.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   5e-47 83.72  CAJ44176.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   5e-47 83.72  CAJ44184.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   5e-47 83.72  CAJ44181.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   5e-47 83.72  CAJ44211.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   5e-47 83.72  CAJ44228.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   5e-47 83.72  CAJ44182.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   5e-47 83.72  CAJ44216.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   5e-47 83.72  CAJ44230.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   6e-47 83.72  CAJ44225.1       
+merozoite surface protein 3 [Plasmodium falciparum]               155    155   92%   7e-47 83.72  CAJ44227.1       
+hypothetical protein PFNF54_03338 [Plasmodium falciparum NF54]    155    155   92%   1e-46 83.72  EWC87738.1       
+hypothetical protein PFBG_03130 [Plasmodium falciparum 7G8]       155    155   92%   1e-46 83.72  EUR71406.1       
+merozoite surface protein 3 [Plasmodium falciparum 3D7]           155    155   92%   1e-46 83.72  XP_001347629.1   
+merozoite surface protein 3 [Plasmodium falciparum]               154    154   92%   2e-46 75.00  CAJ44206.1       
+merozoite surface protein 3 [Plasmodium falciparum]               154    154   92%   2e-46 75.00  CAJ44205.1       
+merozoite surface protein 3 [Plasmodium falciparum]               154    154   92%   3e-46 82.95  CAB85901.1       
+hypothetical protein PFFCH_02010 [Plasmodium falciparum FCH/4]    160    160   100%  5e-46 72.66  ETW30553.1       
+merozoite surface protein 3 [Plasmodium falciparum]               152    152   92%   5e-46 82.95  CAJ44218.1       
+merozoite surface protein 3 [Plasmodium falciparum]               153    153   100%  1e-45 69.86  CAJ44196.1       
+merozoite surface protein 3 [Plasmodium falciparum]               147    147   96%   3e-45 72.39  AAC47670.1       
+merozoite surface protein-3 [Plasmodium falciparum]               146    146   96%   3e-45 71.64  AEI28725.1       
+merozoite surface protein 3 [Plasmodium falciparum]               145    145   96%   9e-45 71.64  AAC47668.1       
+merozoite surface protein 3 [Plasmodium falciparum]               144    144   96%   4e-44 70.90  AAC47672.1       
+merozoite surface protein 3 [Plasmodium falciparum]               143    143   96%   1e-43 70.90  AAC47673.1       
+merozoite surface protein 3 [Plasmodium falciparum]               143    143   95%   1e-43 71.43  AAF59914.1       
+merozoite surface protein-3 [Plasmodium falciparum]               141    141   89%   2e-43 83.06  AEI28765.1       
+merozoite surface protein-3 [Plasmodium falciparum]               141    141   89%   2e-43 83.06  AEI28764.1       
+merozoite surface protein 3 [Plasmodium falciparum]               141    141   89%   3e-43 83.06  AAC47662.1       
+merozoite surface protein 3 [Plasmodium falciparum]               141    141   89%   3e-43 83.06  AAC47664.1       
+merozoite surface protein 3 [Plasmodium falciparum]               141    141   89%   3e-43 82.26  AAC47666.1       
+merozoite surface protein-3 [Plasmodium falciparum]               139    139   88%   4e-43 82.93  AOT86944.1       
+merozoite surface protein 3 [Plasmodium falciparum]               140    140   89%   7e-43 82.26  AAC47663.1       
+merozoite surface protein 3 [Plasmodium falciparum]               137    137   74%   2e-42 74.04  AFP75269.1       
+merozoite surface protein 3 [Plasmodium falciparum]               143    143   71%   3e-42 82.83  CAJ44233.1       
+merozoite surface protein 3 [Plasmodium falciparum]               139    139   96%   5e-42 68.66  AAC47675.1       
+merozoite surface protein 3 [Plasmodium falciparum]               135    135   96%   1e-40 67.38  AAC47674.1       
+merozoite surface protein 3 [Plasmodium falciparum]               136    136   92%   8e-40 78.29  CAJ44208.1       
+merozoite surface protein-3 [Plasmodium falciparum]               129    129   87%   4e-39 68.85  AOT86945.1       
+merozoite surface protein-3 [Plasmodium falciparum]               126    126   88%   5e-38 70.73  AOT86951.1       
+merozoite surface protein 3 [Plasmodium falciparum]               111    111   74%   8e-30 63.11  CAJ44187.1       
+merozoite surface protein 3 [Plasmodium falciparum]               108    108   74%   8e-29 62.14  CAJ44188.1       
+merozoite surface protein 3 [Plasmodium falciparum]               108    108   74%   1e-28 62.14  CAJ44186.1       
+merozoite surface protein 3 [Plasmodium falciparum]               80.1   80.1  29%   3e-19 100.00 AMM75929.1       
+merozoite surface protein 3 [Plasmodium falciparum]               74.7   74.7  30%   4e-17 88.37  AMM75928.1       
+merozoite surface protein 3 [Plasmodium falciparum]               57.8   57.8  20%   1e-11 93.10  AAB81610.1       
+hypothetical protein PFUGPA_01621 [Plasmodium falciparum Palo...  45.8   76.6  43%   7e-06 60.42  ETW56450.1       
+Chain A, SPAM-H1 [Plasmodium falciparum]                          39.3   39.3  27%   9e-05 100.00 1PSM_A           
+MSP3 [Plasmodium falciparum]                                      30.8   30.8  9%    0.86  100.00 AHA91192.1       
+MSP3 [Plasmodium falciparum]                                      30.4   30.4  9%    0.95  100.00 AHA91191.1       
+
+
+Alignments:
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75908.1 Length: 259 
+Range 1: 52 to 190
+
+Score:259 bits(661), Expect:2e-88, 
+Method:Compositional matrix adjust., 
+Identities:139/139(100%), Positives:139/139(100%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  52   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  111
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  112  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  171
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  172  ANQAVLKAKEASSYDYILG  190
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44204.1 Length: 330 
+Range 1: 60 to 198
+
+Score:261 bits(667), Expect:3e-88, 
+Method:Compositional matrix adjust., 
+Identities:139/139(100%), Positives:139/139(100%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  120  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  179
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  180  ANQAVLKAKEASSYDYILG  198
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44175.1 Length: 332 
+Range 1: 60 to 198
+
+Score:261 bits(667), Expect:4e-88, 
+Method:Compositional matrix adjust., 
+Identities:139/139(100%), Positives:139/139(100%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  120  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  179
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  180  ANQAVLKAKEASSYDYILG  198
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44172.1 Length: 333 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44173.1 Length: 333 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44174.1 Length: 333  
+Range 1: 60 to 198
+
+Score:261 bits(666), Expect:4e-88, 
+Method:Compositional matrix adjust., 
+Identities:139/139(100%), Positives:139/139(100%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  120  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  179
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  180  ANQAVLKAKEASSYDYILG  198
+
+
+
+>hypothetical protein PFTANZ_05884 [Plasmodium falciparum Tanzania (2000708)]
+Sequence ID: ETW33393.1 Length: 336 
+Range 1: 84 to 222
+
+Score:259 bits(663), Expect:1e-87, 
+Method:Compositional matrix adjust., 
+Identities:139/139(100%), Positives:139/139(100%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  84   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  143
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  144  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  203
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  204  ANQAVLKAKEASSYDYILG  222
+
+
+
+>polymorphic antigen [Plasmodium falciparum]
+Sequence ID: AAC09378.1 Length: 380 
+Range 1: 84 to 222
+
+Score:261 bits(666), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:139/139(100%), Positives:139/139(100%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  84   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  143
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  144  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  203
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  204  ANQAVLKAKEASSYDYILG  222
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44170.1 Length: 332 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44171.1 Length: 332  
+Range 1: 60 to 198
+
+Score:259 bits(661), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:138/139(99%), Positives:138/139(99%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKE VNLKESDKSYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEEVNLKESDKSYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  120  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  179
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  180  ANQAVLKAKEASSYDYILG  198
+
+
+
+>hypothetical protein PFNF135_03204 [Plasmodium falciparum NF135/5.C10]
+Sequence ID: ETW42545.1 Length: 382 
+Range 1: 84 to 222
+
+Score:259 bits(661), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:138/139(99%), Positives:138/139(99%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKE VNLKESDKSYTKAKEACTAA
+Sbjct  84   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEEVNLKESDKSYTKAKEACTAA  143
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  144  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  203
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  204  ANQAVLKAKEASSYDYILG  222
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28735.1 Length: 154 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28736.1 Length: 154 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28756.1 Length: 154 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28758.1 Length: 154 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28759.1 Length: 154  
+Range 1: 21 to 154
+
+Score:244 bits(624), Expect:3e-84, 
+Method:Compositional matrix adjust., 
+Identities:134/134(100%), Positives:134/134(100%), Gaps:0/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  21   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  80
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  81   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  140
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  141  ANQAVLKAKEASSY  154
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28720.1 Length: 154 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28721.1 Length: 154 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28733.1 Length: 154 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28740.1 Length: 154 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28743.1 Length: 154  
+Range 1: 21 to 154
+
+Score:244 bits(623), Expect:4e-84, 
+Method:Compositional matrix adjust., 
+Identities:134/134(100%), Positives:134/134(100%), Gaps:0/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  21   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  80
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  81   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  140
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  141  ANQAVLKAKEASSY  154
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75921.1 Length: 246 
+Range 1: 51 to 189
+
+Score:240 bits(613), Expect:3e-81, 
+Method:Compositional matrix adjust., 
+Identities:130/139(94%), Positives:136/139(97%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  111  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  170
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  171  ANQAVLKAKEASSYDYILG  189
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75895.1 Length: 263 
+Range 1: 52 to 190
+
+Score:240 bits(612), Expect:7e-81, 
+Method:Compositional matrix adjust., 
+Identities:130/139(94%), Positives:136/139(97%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  52   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  111
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  112  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  171
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  172  ANQAVLKAKEASSYDYILG  190
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75920.1 Length: 284 
+Range 1: 51 to 189
+
+Score:240 bits(613), Expect:1e-80, 
+Method:Compositional matrix adjust., 
+Identities:130/139(94%), Positives:136/139(97%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  111  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  170
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  171  ANQAVLKAKEASSYDYILG  189
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75896.1 Length: 281 
+Range 1: 52 to 190
+
+Score:240 bits(612), Expect:1e-80, 
+Method:Compositional matrix adjust., 
+Identities:130/139(94%), Positives:136/139(97%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  52   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  111
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  112  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  171
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  172  ANQAVLKAKEASSYDYILG  190
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75894.1 Length: 301 
+Range 1: 51 to 189
+
+Score:241 bits(614), Expect:1e-80, 
+Method:Compositional matrix adjust., 
+Identities:130/139(94%), Positives:136/139(97%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  111  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  170
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  171  ANQAVLKAKEASSYDYILG  189
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44201.1 Length: 331 
+Range 1: 60 to 198
+
+Score:241 bits(616), Expect:1e-80, 
+Method:Compositional matrix adjust., 
+Identities:130/139(94%), Positives:136/139(97%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  120  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  179
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  180  ANQAVLKAKEASSYDYILG  198
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75909.1 Length: 303 
+Range 1: 52 to 190
+
+Score:240 bits(613), Expect:2e-80, 
+Method:Compositional matrix adjust., 
+Identities:130/139(94%), Positives:136/139(97%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  52   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  111
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  112  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  171
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  172  ANQAVLKAKEASSYDYILG  190
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44202.1 Length: 330 
+Range 1: 60 to 198
+
+Score:241 bits(615), Expect:2e-80, 
+Method:Compositional matrix adjust., 
+Identities:130/139(94%), Positives:136/139(97%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  120  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  179
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  180  ANQAVLKAKEASSYDYILG  198
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44203.1 Length: 331 
+Range 1: 60 to 198
+
+Score:241 bits(615), Expect:2e-80, 
+Method:Compositional matrix adjust., 
+Identities:130/139(94%), Positives:136/139(97%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK
+Sbjct  120  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  179
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  180  ANQAVLKAKEASSYDYILG  198
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AOT86946.1 Length: 123 
+Range 1: 1 to 123
+
+Score:223 bits(567), Expect:6e-76, 
+Method:Compositional matrix adjust., 
+Identities:123/123(100%), Positives:123/123(100%), Gaps:0/123(0%)
+
+Query  12   AKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  71
+            AKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL
+Sbjct  1    AKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  60
+
+Query  72   KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  131
+            KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA
+Sbjct  61   KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  120
+
+Query  132  SSY  134
+            SSY
+Sbjct  121  SSY  123
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AOT86947.1 Length: 123 
+Range 1: 1 to 123
+
+Score:220 bits(561), Expect:4e-75, 
+Method:Compositional matrix adjust., 
+Identities:122/123(99%), Positives:122/123(99%), Gaps:0/123(0%)
+
+Query  12   AKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  71
+            AKQASQDAEQAAKDAENASKEAEEAAKE VNLKESDKSYTKAKEACTAASKAKKAVETAL
+Sbjct  1    AKQASQDAEQAAKDAENASKEAEEAAKEEVNLKESDKSYTKAKEACTAASKAKKAVETAL  60
+
+Query  72   KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  131
+            KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA
+Sbjct  61   KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  120
+
+Query  132  SSY  134
+            SSY
+Sbjct  121  SSY  123
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAF59915.1 Length: 169 
+Range 1: 52 to 169
+
+Score:216 bits(549), Expect:1e-72, 
+Method:Compositional matrix adjust., 
+Identities:118/118(100%), Positives:118/118(100%), Gaps:0/118(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  52   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  111
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAY  118
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAY
+Sbjct  112  SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAY  169
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75922.1 Length: 212 
+Range 1: 44 to 181
+
+Score:202 bits(513), Expect:2e-66, 
+Method:Compositional matrix adjust., 
+Identities:115/139(83%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  44   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  103
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YEKAKNAYQK
+Sbjct  104  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYEKAKNAYQK  162
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  163  ANQAVLKAKEASSYDYILG  181
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75930.1 Length: 279 
+Range 1: 51 to 188
+
+Score:201 bits(510), Expect:4e-65, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  111  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  169
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  170  ANQAVLKAKEASSYDYILG  188
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75899.1 Length: 291 
+Range 1: 49 to 186
+
+Score:201 bits(511), Expect:4e-65, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  49   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  108
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  109  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  167
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  168  ANQAVLKAKEASSYDYILG  186
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75903.1 Length: 293 
+Range 1: 52 to 189
+
+Score:201 bits(511), Expect:5e-65, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  52   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  111
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  112  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  170
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  171  ANQAVLKAKEASSYDYILG  189
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75906.1 Length: 308 
+Range 1: 49 to 186
+
+Score:201 bits(511), Expect:6e-65, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  49   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  108
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  109  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  167
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  168  ANQAVLKAKEASSYDYILG  186
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44167.1 Length: 329 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44168.1 Length: 329 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44197.1 Length: 329 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44199.1 Length: 329  
+Range 1: 60 to 197
+
+Score:202 bits(513), Expect:6e-65, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  120  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44162.1 Length: 329 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44163.1 Length: 329 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44164.1 Length: 329  
+Range 1: 60 to 197
+
+Score:202 bits(513), Expect:6e-65, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  120  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44165.1 Length: 330 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44198.1 Length: 330  
+Range 1: 60 to 197
+
+Score:202 bits(513), Expect:7e-65, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  120  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44200.1 Length: 330 
+Range 1: 60 to 197
+
+Score:202 bits(513), Expect:7e-65, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  120  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44166.1 Length: 331 
+Range 1: 60 to 197
+
+Score:202 bits(513), Expect:7e-65, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  120  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44169.1 Length: 329 
+Range 1: 60 to 197
+
+Score:201 bits(510), Expect:2e-64, 
+Method:Compositional matrix adjust., 
+Identities:113/139(81%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+++A  LKESD+SYTKAKEACTAA
+Sbjct  60   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASQDAEKLKESDESYTKAKEACTAA  119
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  120  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>polymorphic antigen [Plasmodium falciparum]
+Sequence ID: AAF04099.1 Length: 379 
+Range 1: 84 to 221
+
+Score:202 bits(513), Expect:2e-64, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  84   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  143
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  144  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  202
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  203  ANQAVLKAKEASSYDYILG  221
+
+
+
+>polymorphic antigen [Plasmodium falciparum]
+Sequence ID: AAC47832.1 Length: 379 
+Range 1: 84 to 221
+
+Score:202 bits(513), Expect:2e-64, 
+Method:Compositional matrix adjust., 
+Identities:114/139(82%), Positives:125/139(89%), Gaps:1/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  84   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  143
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  144  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  202
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  203  ANQAVLKAKEASSYDYILG  221
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28718.1 Length: 153 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28727.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28731.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28734.1 Length: 153  
+Range 1: 21 to 153
+
+Score:187 bits(476), Expect:1e-61, 
+Method:Compositional matrix adjust., 
+Identities:109/134(81%), Positives:120/134(89%), Gaps:1/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  21   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  80
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  81   SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  139
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  140  ANQAVLKAKEASSY  153
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47677.1 Length: 183 
+Range 1: 51 to 183
+
+Score:189 bits(479), Expect:1e-61, 
+Method:Compositional matrix adjust., 
+Identities:109/134(81%), Positives:121/134(90%), Gaps:1/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK+ AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  111  SKAKKAFETASNAKEAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  169
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  170  ANQAVLKAKEASSY  183
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28723.1 Length: 153 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28724.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28728.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28732.1 Length: 153  
+Range 1: 21 to 153
+
+Score:187 bits(474), Expect:2e-61, 
+Method:Compositional matrix adjust., 
+Identities:109/134(81%), Positives:120/134(89%), Gaps:1/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  21   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  80
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  81   SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  139
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  140  ANQAVLKAKEASSY  153
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28719.1 Length: 153 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28722.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28741.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28755.1 Length: 153  
+Range 1: 21 to 153
+
+Score:186 bits(473), Expect:4e-61, 
+Method:Compositional matrix adjust., 
+Identities:108/134(81%), Positives:120/134(89%), Gaps:1/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+++A  LKESD+SYTKAKEACTAA
+Sbjct  21   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASQDAEKLKESDESYTKAKEACTAA  80
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  81   SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  139
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  140  ANQAVLKAKEASSY  153
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28729.1 Length: 153 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28730.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28737.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28762.1 Length: 153  
+Range 1: 21 to 153
+
+Score:186 bits(471), Expect:5e-61, 
+Method:Compositional matrix adjust., 
+Identities:108/134(81%), Positives:120/134(89%), Gaps:1/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+++A  LKESD+SYTKAKEACTAA
+Sbjct  21   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASQDAEKLKESDESYTKAKEACTAA  80
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQK
+Sbjct  81   SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQK  139
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  140  ANQAVLKAKEASSY  153
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47678.1 Length: 183 
+Range 1: 51 to 183
+
+Score:185 bits(469), Expect:3e-60, 
+Method:Compositional matrix adjust., 
+Identities:108/134(81%), Positives:120/134(89%), Gaps:1/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AK+AYQK
+Sbjct  111  SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKSAYQK  169
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  170  ANQAVLKAKEASSY  183
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44185.1 Length: 304 
+Range 1: 53 to 171
+
+Score:182 bits(462), Expect:2e-57, 
+Method:Compositional matrix adjust., 
+Identities:107/129(83%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEA+KEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEASKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AWH67847.1 Length: 142 
+Range 1: 50 to 142
+
+Score:170 bits(430), Expect:8e-55, 
+Method:Compositional matrix adjust., 
+Identities:93/93(100%), Positives:93/93(100%), Gaps:0/93(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA
+Sbjct  50   DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  109
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRI  93
+            SKAKKAVETALKAKDDAETALKTSETPEKPSRI
+Sbjct  110  SKAKKAVETALKAKDDAETALKTSETPEKPSRI  142
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AOT86948.1 Length: 122 
+Range 1: 1 to 122
+
+Score:165 bits(418), Expect:3e-53, 
+Method:Compositional matrix adjust., 
+Identities:98/123(80%), Positives:109/123(88%), Gaps:1/123(0%)
+
+Query  12   AKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  71
+            AKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAASKAKKA ETA 
+Sbjct  1    AKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAASKAKKAFETAS  60
+
+Query  72   KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  131
+             AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQKANQAVLKAKEA
+Sbjct  61   NAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQKANQAVLKAKEA  119
+
+Query  132  SSY  134
+            SSY
+Sbjct  120  SSY  122
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AOT86949.1 Length: 122 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AOT86950.1 Length: 122  
+Range 1: 1 to 122
+
+Score:164 bits(414), Expect:9e-53, 
+Method:Compositional matrix adjust., 
+Identities:97/123(79%), Positives:109/123(88%), Gaps:1/123(0%)
+
+Query  12   AKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  71
+            AKQASQDAEQAAKDAE A+K+AE+A+++A  LKESD+SYTKAKEACTAASKAKKA ETA 
+Sbjct  1    AKQASQDAEQAAKDAEQAAKDAEQASQDAEKLKESDESYTKAKEACTAASKAKKAFETAS  60
+
+Query  72   KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  131
+             AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNAYQKANQAVLKAKEA
+Sbjct  61   NAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNAYQKANQAVLKAKEA  119
+
+Query  132  SSY  134
+            SSY
+Sbjct  120  SSY  122
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AWH67846.1 Length: 122 
+Range 1: 7 to 122
+
+Score:156 bits(395), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:92/117(79%), Positives:103/117(88%), Gaps:1/117(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DDQKDIEAYKKAKQASQDAEQAAKDAE A+K+AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  7    DDQKDIEAYKKAKQASQDAEQAAKDAEQAAKDAEQASKDAEKLKESDESYTKAKEACTAA  66
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNA  117
+            SKAKKA ETA  AK  AE+ALKT+   EKPSRINLFSRKTKEYAE+ +  YE+AKNA
+Sbjct  67   SKAKKAFETASNAKKAAESALKTN-ADEKPSRINLFSRKTKEYAEQVEKDYERAKNA  122
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75893.1 Length: 262 
+Range 1: 11 to 149
+
+Score:159 bits(403), Expect:3e-49, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  11   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  70
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  71   SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  130
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  131  ANQAVLKAKEASSYDYILG  149
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75931.1 Length: 280 
+Range 1: 50 to 188
+
+Score:159 bits(403), Expect:6e-49, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  50   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  109
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  110  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  169
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  170  ANQAVLKAKEASSYDYILG  188
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75907.1 Length: 281 
+Range 1: 47 to 185
+
+Score:159 bits(403), Expect:7e-49, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  47   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  106
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  107  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  166
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  167  ANQAVLKAKEASSYDYILG  185
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75910.1 Length: 294 
+Range 1: 48 to 186
+
+Score:159 bits(403), Expect:7e-49, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  48   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  107
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  108  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  167
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  168  ANQAVLKAKEASSYDYILG  186
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75897.1 Length: 296 
+Range 1: 51 to 189
+
+Score:159 bits(403), Expect:7e-49, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  111  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  170
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  171  ANQAVLKAKEASSYDYILG  189
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75915.1 Length: 299 
+Range 1: 51 to 189
+
+Score:160 bits(404), Expect:8e-49, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  111  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  170
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  171  ANQAVLKAKEASSYDYILG  189
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75898.1 Length: 290 
+Range 1: 48 to 186
+
+Score:159 bits(403), Expect:8e-49, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  48   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  107
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  108  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  167
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  168  ANQAVLKAKEASSYDYILG  186
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75905.1 Length: 313 
+Range 1: 48 to 186
+
+Score:159 bits(403), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  48   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  107
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  108  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  167
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  168  ANQAVLKAKEASSYDYILG  186
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75901.1 Length: 316 
+Range 1: 51 to 189
+
+Score:159 bits(403), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  111  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  170
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  171  ANQAVLKAKEASSYDYILG  189
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75913.1 Length: 322 
+Range 1: 51 to 189
+
+Score:160 bits(404), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  51   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  110
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  111  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  170
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  171  ANQAVLKAKEASSYDYILG  189
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44194.1 Length: 328 
+Range 1: 59 to 197
+
+Score:160 bits(404), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  59   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  118
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  119  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44136.1 Length: 329 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44137.1 Length: 329 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44138.1 Length: 329 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44139.1 Length: 329 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44140.1 Length: 329  
+Range 1: 59 to 197
+
+Score:160 bits(404), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  59   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  118
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  119  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44151.1 Length: 330 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44152.1 Length: 330 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44153.1 Length: 330 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44154.1 Length: 330 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44155.1 Length: 330  
+Range 1: 59 to 197
+
+Score:160 bits(404), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  59   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  118
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  119  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44190.1 Length: 331 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44191.1 Length: 331 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44192.1 Length: 331  
+Range 1: 59 to 197
+
+Score:160 bits(404), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  59   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  118
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  119  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44193.1 Length: 342 
+Range 1: 59 to 197
+
+Score:160 bits(404), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  59   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  118
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  119  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44157.1 Length: 344 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44158.1 Length: 344 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44159.1 Length: 344 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44160.1 Length: 344  
+Range 1: 59 to 197
+
+Score:160 bits(404), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  59   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  118
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  119  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44195.1 Length: 329 
+Range 1: 59 to 197
+
+Score:159 bits(403), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  59   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  118
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  119  SKVKKAFETASNAKKAAESALKTNETAERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44161.1 Length: 346 
+Range 1: 59 to 197
+
+Score:160 bits(404), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  59   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  118
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  119  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AWH67845.1 Length: 161 
+Range 1: 40 to 158
+
+Score:154 bits(389), Expect:3e-48, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  40   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  99
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  100  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  149
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  150  ASSYDYILG  158
+
+
+
+>merozoite surface protein 3 precursor, partial [Plasmodium falciparum]
+Sequence ID: AAK94780.1 Length: 361 
+Range 1: 63 to 201
+
+Score:160 bits(404), Expect:3e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  63   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  122
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  123  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  182
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  183  ANQAVLKAKEASSYDYILG  201
+
+
+
+>hypothetical protein PFFVO_03054 [Plasmodium falciparum Vietnam Oak-Knoll (FVO)]
+Sequence ID: ETW18164.1 Length: 381 
+Range 1: 83 to 221
+
+Score:160 bits(404), Expect:4e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  83   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  142
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  143  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  202
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  203  ANQAVLKAKEASSYDYILG  221
+
+
+
+>polymorphic antigen [Plasmodium falciparum]
+Sequence ID: AAC47831.1 Length: 379 
+>merozoite surface protein 3 [Plasmodium falciparum IGH-CR14]
+Sequence ID: KNG74834.1 Length: 379 >hypothetical protein PFDG_00160 [Plasmodium falciparum Dd2]
+Sequence ID: KOB84826.1 Length: 379  
+Range 1: 83 to 221
+
+Score:160 bits(404), Expect:5e-48, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  83   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  142
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  143  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  202
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  203  ANQAVLKAKEASSYDYILG  221
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: QCP70366.1 Length: 207 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: QCP70367.1 Length: 207 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: QCP70368.1 Length: 207 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: QCP70369.1 Length: 207 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: QCP70370.1 Length: 207  
+Range 1: 77 to 195
+
+Score:154 bits(390), Expect:6e-48, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  77   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  136
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  137  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  186
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  187  ASSYDYILG  195
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44149.1 Length: 329 
+Range 1: 59 to 197
+
+Score:157 bits(398), Expect:1e-47, 
+Method:Compositional matrix adjust., 
+Identities:100/139(72%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD++AYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  59   DDEKDMKAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  118
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  119  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  178
+
+Query  121  ANQAVLKAKEASSYDYILG  139
+            ANQAVLKAKEASSYDYILG
+Sbjct  179  ANQAVLKAKEASSYDYILG  197
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75923.1 Length: 265 
+Range 1: 45 to 163
+
+Score:155 bits(391), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75924.1 Length: 257 
+Range 1: 45 to 163
+
+Score:155 bits(391), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75918.1 Length: 256 
+Range 1: 44 to 162
+
+Score:155 bits(391), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  44   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  103
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  104  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  153
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  154  ASSYDYILG  162
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75926.1 Length: 249 
+Range 1: 44 to 162
+
+Score:154 bits(390), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  44   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  103
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  104  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  153
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  154  ASSYDYILG  162
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75925.1 Length: 264 
+Range 1: 45 to 163
+
+Score:155 bits(391), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75927.1 Length: 258 
+Range 1: 45 to 163
+
+Score:155 bits(391), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75911.1 Length: 250 
+Range 1: 17 to 135
+
+Score:154 bits(390), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  17   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  76
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  77   LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  126
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  127  ASSYDYILG  135
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75912.1 Length: 281 
+Range 1: 42 to 160
+
+Score:155 bits(392), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  42   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  101
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  102  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  151
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  152  ASSYDYILG  160
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75900.1 Length: 268 
+Range 1: 45 to 163
+
+Score:155 bits(391), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75914.1 Length: 283 
+Range 1: 45 to 163
+
+Score:155 bits(392), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75892.1 Length: 284 
+Range 1: 45 to 163
+
+Score:155 bits(392), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75916.1 Length: 283 
+Range 1: 45 to 163
+
+Score:155 bits(392), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75919.1 Length: 276 
+Range 1: 43 to 161
+
+Score:155 bits(391), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  43   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  102
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  103  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  152
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  153  ASSYDYILG  161
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75917.1 Length: 281 
+Range 1: 44 to 162
+
+Score:155 bits(391), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  44   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  103
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  104  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  153
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  154  ASSYDYILG  162
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75902.1 Length: 286 
+Range 1: 45 to 163
+
+Score:155 bits(392), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75904.1 Length: 279 
+Range 1: 45 to 163
+
+Score:155 bits(391), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  45   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  104
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  105  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  154
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  155  ASSYDYILG  163
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44226.1 Length: 300 
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44215.1 Length: 303 
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44217.1 Length: 303 
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44224.1 Length: 303 
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44214.1 Length: 305 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44221.1 Length: 305  
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44210.1 Length: 304 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44212.1 Length: 304 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44213.1 Length: 304  
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44207.1 Length: 304 
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:107/129(83%), Positives:112/129(86%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAE ASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAEKASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44176.1 Length: 304 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44177.1 Length: 304 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44178.1 Length: 304 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44179.1 Length: 304 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44180.1 Length: 304  
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44184.1 Length: 306 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44219.1 Length: 306 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44223.1 Length: 306  
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44181.1 Length: 303 
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44211.1 Length: 305 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44220.1 Length: 305 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44222.1 Length: 305  
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44228.1 Length: 305 
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44182.1 Length: 304 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44183.1 Length: 304 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44234.1 Length: 304  
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44216.1 Length: 306 
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44230.1 Length: 307 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44231.1 Length: 307  
+Range 1: 53 to 171
+
+Score:155 bits(392), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44225.1 Length: 299 
+Range 1: 53 to 171
+
+Score:155 bits(391), Expect:6e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44227.1 Length: 304 
+Range 1: 53 to 171
+
+Score:155 bits(391), Expect:7e-47, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>hypothetical protein PFNF54_03338 [Plasmodium falciparum NF54]
+Sequence ID: EWC87738.1 Length: 346 
+Range 1: 69 to 187
+
+Score:155 bits(393), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  69   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  128
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  129  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  178
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  179  ASSYDYILG  187
+
+
+
+>hypothetical protein PFBG_03130 [Plasmodium falciparum 7G8]
+Sequence ID: EUR71406.1 Length: 348 
+>hypothetical protein PFAG_03053 [Plasmodium falciparum Santa Lucia]
+Sequence ID: EUT85361.1 Length: 348 >merozoite Surface protein 3 [Plasmodium falciparum HB3]
+Sequence ID: KOB60760.1 Length: 348  
+Range 1: 77 to 195
+
+Score:155 bits(393), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  77   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  136
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  137  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  186
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  187  ASSYDYILG  195
+
+
+
+>merozoite surface protein 3 [Plasmodium falciparum 3D7]
+Sequence ID: XP_001347629.1 Length: 354 
+>antigen [Plasmodium falciparum]
+Sequence ID: AAC09377.1 Length: 354 >hypothetical protein PFMALIP_03053 [Plasmodium falciparum MaliPS096_E11]
+Sequence ID: ETW48915.1 Length: 354 >merozoite surface protein 3 [Plasmodium falciparum NF54]
+Sequence ID: KAF4328174.1 Length: 354 >polymorphic antigen [Plasmodium falciparum RAJ116]
+Sequence ID: KNC35146.1 Length: 354 >merozoite surface protein 3 [Plasmodium falciparum NF54]
+Sequence ID: PKC43656.1 Length: 354  
+Range 1: 77 to 195
+
+Score:155 bits(392), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:108/129(84%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  77   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  136
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  137  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  186
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  187  ASSYDYILG  195
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44206.1 Length: 311 
+Range 1: 53 to 178
+
+Score:154 bits(389), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:102/136(75%), Positives:110/136(80%), Gaps:17/136(12%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEA-------VNLKESDKSYTKAKEACTAASKA  63
+            KAK+AS+DAE+AA DAE A+ +AE A+KEA       VNLKESDKSYTKAKEACTAASKA
+Sbjct  53   KAKKASEDAEKAANDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKA  112
+
+Query  64   KKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQ  123
+            KKAVETALKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQ
+Sbjct  113  KKAVETALKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQ  162
+
+Query  124  AVLKAKEASSYDYILG  139
+            AVLKAKEASSYDYILG
+Sbjct  163  AVLKAKEASSYDYILG  178
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44205.1 Length: 312 
+Range 1: 53 to 178
+
+Score:154 bits(389), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:102/136(75%), Positives:110/136(80%), Gaps:17/136(12%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEA-------VNLKESDKSYTKAKEACTAASKA  63
+            KAK+AS+DAE+AA DAE A+ +AE A+KEA       VNLKESDKSYTKAKEACTAASKA
+Sbjct  53   KAKKASEDAEKAANDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKA  112
+
+Query  64   KKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQ  123
+            KKAVETALKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQ
+Sbjct  113  KKAVETALKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQ  162
+
+Query  124  AVLKAKEASSYDYILG  139
+            AVLKAKEASSYDYILG
+Sbjct  163  AVLKAKEASSYDYILG  178
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAB85901.1 Length: 329 
+Range 1: 67 to 185
+
+Score:154 bits(389), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:107/129(83%), Positives:113/129(87%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  67   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  126
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDA          EK S+ +  S KTKEYAEKAKNAYE+AKNAYQKANQAVLKAKE
+Sbjct  127  LKAKDDA----------EKSSKADSISTKTKEYAEKAKNAYEEAKNAYQKANQAVLKAKE  176
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  177  ASSYDYILG  185
+
+
+
+>hypothetical protein PFFCH_02010 [Plasmodium falciparum FCH/4]
+Sequence ID: ETW30553.1 Length: 1435 
+Range 1: 1138 to 1276
+
+Score:160 bits(406), Expect:5e-46, 
+Method:Compositional matrix adjust., 
+Identities:101/139(73%), Positives:121/139(87%), Gaps:0/139(0%)
+
+Query  1     DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+             DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  1138  DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  1197
+
+Query  61    SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+             SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  1198  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  1257
+
+Query  121   ANQAVLKAKEASSYDYILG  139
+             ANQAVLKAKEASSYDYILG
+Sbjct  1258  ANQAVLKAKEASSYDYILG  1276
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44218.1 Length: 303 
+Range 1: 53 to 171
+
+Score:152 bits(385), Expect:5e-46, 
+Method:Compositional matrix adjust., 
+Identities:107/129(83%), Positives:112/129(86%), Gaps:10/129(7%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DA +AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAVKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDAE          K S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDAE----------KSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  162
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  163  ASSYDYILG  171
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44196.1 Length: 350 
+Range 1: 59 to 204
+
+Score:153 bits(386), Expect:1e-45, 
+Method:Compositional matrix adjust., 
+Identities:102/146(70%), Positives:121/146(82%), Gaps:7/146(4%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEA-------AKEAVNLKESDKSYTKA  53
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A++EAE+A       +K+A  LKESD+SYTKA
+Sbjct  59   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKA  118
+
+Query  54   KEACTAASKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEK  113
+            KEACTAASK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+
+Sbjct  119  KEACTAASKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYER  178
+
+Query  114  AKNAYQKANQAVLKAKEASSYDYILG  139
+            AKNAYQKANQAVLKAKEASSYDYILG
+Sbjct  179  AKNAYQKANQAVLKAKEASSYDYILG  204
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47670.1 Length: 183 
+Range 1: 50 to 183
+
+Score:147 bits(371), Expect:3e-45, 
+Method:Compositional matrix adjust., 
+Identities:97/134(72%), Positives:116/134(86%), Gaps:0/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KDIEAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  50   DDEKDIEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  109
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  110  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  169
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  170  ANQAVLKAKEASSY  183
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28725.1 Length: 153 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28726.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28738.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28739.1 Length: 153 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28742.1 Length: 153  
+Range 1: 20 to 153
+
+Score:146 bits(368), Expect:3e-45, 
+Method:Compositional matrix adjust., 
+Identities:96/134(72%), Positives:116/134(86%), Gaps:0/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  20   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  79
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  80   SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  139
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  140  ANQAVLKAKEASSY  153
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47668.1 Length: 183 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47669.1 Length: 183 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47671.1 Length: 183 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47676.1 Length: 183  
+Range 1: 50 to 183
+
+Score:145 bits(367), Expect:9e-45, 
+Method:Compositional matrix adjust., 
+Identities:96/134(72%), Positives:116/134(86%), Gaps:0/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  50   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  109
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  110  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  169
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  170  ANQAVLKAKEASSY  183
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47672.1 Length: 183 
+Range 1: 50 to 183
+
+Score:144 bits(363), Expect:4e-44, 
+Method:Compositional matrix adjust., 
+Identities:95/134(71%), Positives:115/134(85%), Gaps:0/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACT A
+Sbjct  50   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTRA  109
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  110  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  169
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  170  ANQAVLKAKEASSY  183
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47673.1 Length: 183 
+Range 1: 50 to 183
+
+Score:143 bits(360), Expect:1e-43, 
+Method:Compositional matrix adjust., 
+Identities:95/134(71%), Positives:115/134(85%), Gaps:0/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEAC AA
+Sbjct  50   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACAAA  109
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  110  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  169
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQAVLKAKEASSY
+Sbjct  170  ANQAVLKAKEASSY  183
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAF59914.1 Length: 180 
+Range 1: 48 to 180
+
+Score:143 bits(360), Expect:1e-43, 
+Method:Compositional matrix adjust., 
+Identities:95/133(71%), Positives:115/133(86%), Gaps:0/133(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  48   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  107
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQK
+Sbjct  108  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQK  167
+
+Query  121  ANQAVLKAKEASS  133
+            ANQAVLKAKEASS
+Sbjct  168  ANQAVLKAKEASS  180
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28765.1 Length: 140 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28767.1 Length: 140 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28769.1 Length: 140 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28770.1 Length: 140 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28772.1 Length: 140  
+Range 1: 27 to 140
+
+Score:141 bits(355), Expect:2e-43, 
+Method:Compositional matrix adjust., 
+Identities:103/124(83%), Positives:108/124(87%), Gaps:10/124(8%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  27   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  86
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDA          EK S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  87   LKAKDDA----------EKSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  136
+
+Query  131  ASSY  134
+            ASSY
+Sbjct  137  ASSY  140
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28764.1 Length: 140 
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28766.1 Length: 140 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28768.1 Length: 140 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28771.1 Length: 140 >merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AEI28773.1 Length: 140  
+Range 1: 27 to 140
+
+Score:141 bits(355), Expect:2e-43, 
+Method:Compositional matrix adjust., 
+Identities:103/124(83%), Positives:108/124(87%), Gaps:10/124(8%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  27   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  86
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDA          EK S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  87   LKAKDDA----------EKSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  136
+
+Query  131  ASSY  134
+            ASSY
+Sbjct  137  ASSY  140
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47662.1 Length: 157 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47665.1 Length: 157  
+Range 1: 44 to 157
+
+Score:141 bits(355), Expect:3e-43, 
+Method:Compositional matrix adjust., 
+Identities:103/124(83%), Positives:108/124(87%), Gaps:10/124(8%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  44   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  103
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDA          EK S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  104  LKAKDDA----------EKSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  153
+
+Query  131  ASSY  134
+            ASSY
+Sbjct  154  ASSY  157
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47664.1 Length: 157 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47667.1 Length: 157 >merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAF59916.1 Length: 157  
+Range 1: 44 to 157
+
+Score:141 bits(355), Expect:3e-43, 
+Method:Compositional matrix adjust., 
+Identities:103/124(83%), Positives:108/124(87%), Gaps:10/124(8%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  44   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  103
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDA          EK S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  104  LKAKDDA----------EKSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  153
+
+Query  131  ASSY  134
+            ASSY
+Sbjct  154  ASSY  157
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47666.1 Length: 157 
+Range 1: 44 to 157
+
+Score:141 bits(355), Expect:3e-43, 
+Method:Compositional matrix adjust., 
+Identities:102/124(82%), Positives:107/124(86%), Gaps:10/124(8%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA D ENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  44   KAKKASEDAEKAANDPENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  103
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDA          EK S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  104  LKAKDDA----------EKSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  153
+
+Query  131  ASSY  134
+            ASSY
+Sbjct  154  ASSY  157
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AOT86944.1 Length: 113 
+Range 1: 1 to 113
+
+Score:139 bits(350), Expect:4e-43, 
+Method:Compositional matrix adjust., 
+Identities:102/123(83%), Positives:107/123(86%), Gaps:10/123(8%)
+
+Query  12   AKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  71
+            AK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL
+Sbjct  1    AKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  60
+
+Query  72   KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  131
+            KAKDDA          EK S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA
+Sbjct  61   KAKDDA----------EKSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  110
+
+Query  132  SSY  134
+            SSY
+Sbjct  111  SSY  113
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47663.1 Length: 157 
+Range 1: 44 to 157
+
+Score:140 bits(353), Expect:7e-43, 
+Method:Compositional matrix adjust., 
+Identities:102/124(82%), Positives:107/124(86%), Gaps:10/124(8%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASK KKAVETA
+Sbjct  44   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKVKKAVETA  103
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDA          EK S+ +  S KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE
+Sbjct  104  LKAKDDA----------EKSSKADSISTKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  153
+
+Query  131  ASSY  134
+            ASSY
+Sbjct  154  ASSY  157
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AFP75269.1 Length: 110 
+Range 1: 1 to 104
+
+Score:137 bits(346), Expect:2e-42, 
+Method:Compositional matrix adjust., 
+Identities:77/104(74%), Positives:87/104(83%), Gaps:0/104(0%)
+
+Query  36   AAKEAVNLKESDKSYTKAKEACTAASKAKKAVETALKAKDDAETALKTSETPEKPSRINL  95
+            A+K+A  LKESD+SYTKAKEACTAASK KKA ETA  AK  AE+ALKT+ET E+ SR N 
+Sbjct  1    ASKDAEKLKESDESYTKAKEACTAASKVKKAFETASNAKKAAESALKTNETGERNSRNNF  60
+
+Query  96   FSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG  139
+            ++ KTKEYA K +  YE+AKNAYQKANQAVLKAKEASSYDYILG
+Sbjct  61   YTTKTKEYAGKVEKDYERAKNAYQKANQAVLKAKEASSYDYILG  104
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44233.1 Length: 296 
+Range 1: 76 to 164
+
+Score:143 bits(360), Expect:3e-42, 
+Method:Compositional matrix adjust., 
+Identities:82/99(83%), Positives:84/99(84%), Gaps:10/99(10%)
+
+Query  41   VNLKESDKSYTKAKEACTAASKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKT  100
+            VNLKESDKSYTKAKEACTAASKAKKAVETALKAKDDAE          K S+ +  S KT
+Sbjct  76   VNLKESDKSYTKAKEACTAASKAKKAVETALKAKDDAE----------KSSKADSISTKT  125
+
+Query  101  KEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG  139
+            KEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG
+Sbjct  126  KEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG  164
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47675.1 Length: 183 
+Range 1: 50 to 183
+
+Score:139 bits(349), Expect:5e-42, 
+Method:Compositional matrix adjust., 
+Identities:92/134(69%), Positives:112/134(83%), Gaps:0/134(0%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAA  60
+            DD+KD+EAYK AK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAA
+Sbjct  50   DDEKDMEAYKNAKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAA  109
+
+Query  61   SKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQK  120
+            SK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQ 
+Sbjct  110  SKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQN  169
+
+Query  121  ANQAVLKAKEASSY  134
+            ANQ  LKAKEASSY
+Sbjct  170  ANQTALKAKEASSY  183
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAC47674.1 Length: 190 
+Range 1: 50 to 190
+
+Score:135 bits(341), Expect:1e-40, 
+Method:Compositional matrix adjust., 
+Identities:95/141(67%), Positives:114/141(80%), Gaps:7/141(4%)
+
+Query  1    DDQKDIEAYKKAKQASQDAEQAAKDAENASKEAEEA-------AKEAVNLKESDKSYTKA  53
+            DD+KD+EAYKKAK+ASQDAE+AA++AE A++EAE+A       +K+A  LKESD+ YTKA
+Sbjct  50   DDEKDMEAYKKAKEASQDAEKAAEEAEKAAEEAEKAAEQAEQASKDAEKLKESDEFYTKA  109
+
+Query  54   KEACTAASKAKKAVETALKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEK  113
+            KEACTAASK KKA ETA  AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+
+Sbjct  110  KEACTAASKVKKAFETASNAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYER  169
+
+Query  114  AKNAYQKANQAVLKAKEASSY  134
+            AKNAYQKANQAV KAKEASSY
+Sbjct  170  AKNAYQKANQAVFKAKEASSY  190
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44208.1 Length: 296 
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44209.1 Length: 296  
+Range 1: 53 to 164
+
+Score:136 bits(343), Expect:8e-40, 
+Method:Compositional matrix adjust., 
+Identities:101/129(78%), Positives:106/129(82%), Gaps:17/129(13%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  70
+            KAK+AS+DAE+AA DAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA
+Sbjct  53   KAKKASEDAEKAANDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETA  112
+
+Query  71   LKAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKE  130
+            LKAKDDA          EK S+ +  S KTKEYA       EKAKNAYQKANQAVLKAKE
+Sbjct  113  LKAKDDA----------EKSSKADSISTKTKEYA-------EKAKNAYQKANQAVLKAKE  155
+
+Query  131  ASSYDYILG  139
+            ASSYDYILG
+Sbjct  156  ASSYDYILG  164
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AOT86945.1 Length: 113 
+Range 1: 1 to 97
+
+Score:129 bits(324), Expect:4e-39, 
+Method:Compositional matrix adjust., 
+Identities:84/122(69%), Positives:92/122(75%), Gaps:25/122(20%)
+
+Query  12   AKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  71
+            AK+AS+DAE+AA DAENASKEAEEA+KEAVNLKESDKSYTKAKEACTAASKAKKAVETAL
+Sbjct  1    AKKASEDAEKAANDAENASKEAEEASKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  60
+
+Query  72   KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  131
+            KAKDDAE + K                          ++ EKAKNAYQKANQAVLKAKEA
+Sbjct  61   KAKDDAEKSSKA-------------------------DSIEKAKNAYQKANQAVLKAKEA  95
+
+Query  132  SS  133
+            S+
+Sbjct  96   ST  97
+
+
+
+>merozoite surface protein-3, partial [Plasmodium falciparum]
+Sequence ID: AOT86951.1 Length: 123 
+Range 1: 1 to 123
+
+Score:126 bits(317), Expect:5e-38, 
+Method:Compositional matrix adjust., 
+Identities:87/123(71%), Positives:105/123(85%), Gaps:0/123(0%)
+
+Query  12   AKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACTAASKAKKAVETAL  71
+            AK+ASQDAE+AA++AE A+++AE+A+K+A  LKESD+SYTKAKEACTAASK KKA ETA 
+Sbjct  1    AKEASQDAEKAAEEAEKAAEQAEQASKDAEKLKESDESYTKAKEACTAASKVKKAFETAS  60
+
+Query  72   KAKDDAETALKTSETPEKPSRINLFSRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEA  131
+             AK  AE+ALKT+ET E+ SR N ++ KTKEYA K +  YE+AKNAYQKANQAVLKAKEA
+Sbjct  61   NAKKAAESALKTNETGERNSRNNFYTTKTKEYAGKVEKDYERAKNAYQKANQAVLKAKEA  120
+
+Query  132  SSY  134
+            SSY
+Sbjct  121  SSY  123
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44187.1 Length: 315 
+Range 1: 91 to 183
+
+Score:111 bits(277), Expect:8e-30, 
+Method:Compositional matrix adjust., 
+Identities:65/103(63%), Positives:77/103(74%), Gaps:10/103(9%)
+
+Query  37   AKEAVNLKESDKSYTKAKEACTAASKAKKAVETALKAKDDAETALKTSETPEKPSRINLF  96
+            +K+A  LKESD+SY K K+A   AS AKKA          AE+ALKT+ET E+ SR N +
+Sbjct  91   SKDAEKLKESDESYKKVKKAFETASNAKKA----------AESALKTNETDERKSRNNFY  140
+
+Query  97   SRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG  139
+            + KTKEYAEK +  Y++AKNAYQKANQAVLKAKEASSYDYILG
+Sbjct  141  TTKTKEYAEKVEEYYQRAKNAYQKANQAVLKAKEASSYDYILG  183
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44188.1 Length: 315 
+Range 1: 91 to 183
+
+Score:108 bits(270), Expect:8e-29, 
+Method:Compositional matrix adjust., 
+Identities:64/103(62%), Positives:76/103(73%), Gaps:10/103(9%)
+
+Query  37   AKEAVNLKESDKSYTKAKEACTAASKAKKAVETALKAKDDAETALKTSETPEKPSRINLF  96
+            +K+A  LKESD+SY K K+A   AS AKKA          AE+ALKT+ET E+ SR N +
+Sbjct  91   SKDAEKLKESDESYKKVKKAFETASNAKKA----------AESALKTNETDERKSRNNFY  140
+
+Query  97   SRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG  139
+            + KTKEYA K +  Y++AKNAYQKANQAVLKAKEASSYDYILG
+Sbjct  141  TTKTKEYAGKVEEYYQRAKNAYQKANQAVLKAKEASSYDYILG  183
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: CAJ44186.1 Length: 329 
+Range 1: 91 to 183
+
+Score:108 bits(270), Expect:1e-28, 
+Method:Compositional matrix adjust., 
+Identities:64/103(62%), Positives:76/103(73%), Gaps:10/103(9%)
+
+Query  37   AKEAVNLKESDKSYTKAKEACTAASKAKKAVETALKAKDDAETALKTSETPEKPSRINLF  96
+            +K+A  LKESD+SY K K+A   AS AKKA          AE+ALKT+ET E+ SR N +
+Sbjct  91   SKDAEKLKESDESYKKVKKAFETASNAKKA----------AESALKTNETDERKSRNNFY  140
+
+Query  97   SRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG  139
+            + KTKEYA K +  Y++AKNAYQKANQAVLKAKEASSYDYILG
+Sbjct  141  TTKTKEYAGKVEEYYQRAKNAYQKANQAVLKAKEASSYDYILG  183
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75929.1 Length: 157 
+Range 1: 1 to 41
+
+Score:80.1 bits(196), Expect:3e-19, 
+Method:Compositional matrix adjust., 
+Identities:41/41(100%), Positives:41/41(100%), Gaps:0/41(0%)
+
+Query  99   KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG  139
+            KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG
+Sbjct  1    KTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG  41
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AMM75928.1 Length: 156 
+Range 1: 1 to 43
+
+Score:74.7 bits(182), Expect:4e-17, 
+Method:Compositional matrix adjust., 
+Identities:38/43(88%), Positives:40/43(93%), Gaps:0/43(0%)
+
+Query  97   SRKTKEYAEKAKNAYEKAKNAYQKANQAVLKAKEASSYDYILG  139
+            S KTKEYA KA+N YE+AKNAYQKANQAVLKAKEASSYDYILG
+Sbjct  1    STKTKEYAGKAENDYERAKNAYQKANQAVLKAKEASSYDYILG  43
+
+
+
+>merozoite surface protein 3, partial [Plasmodium falciparum]
+Sequence ID: AAB81610.1 Length: 64 
+Range 1: 1 to 29
+
+Score:57.8 bits(138), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:27/29(93%), Positives:29/29(100%), Gaps:0/29(0%)
+
+Query  111  YEKAKNAYQKANQAVLKAKEASSYDYILG  139
+            +E+AKNAYQKANQAVLKAKEASSYDYILG
+Sbjct  1    HERAKNAYQKANQAVLKAKEASSYDYILG  29
+
+
+
+>hypothetical protein PFUGPA_01621 [Plasmodium falciparum Palo Alto/Uganda]
+Sequence ID: ETW56450.1 Length: 290 
+Range 1: 77 to 124
+
+Score:45.8 bits(107), Expect:7e-06, 
+Method:Compositional matrix adjust., 
+Identities:29/48(60%), Positives:38/48(79%), Gaps:0/48(0%)
+
+Query  11   KAKQASQDAEQAAKDAENASKEAEEAAKEAVNLKESDKSYTKAKEACT  58
+            KAK+AS+DA  A+K+AE AS    +A+K+A  LKESD+SYTKAKEA +
+Sbjct  77   KAKKASEDAGNASKEAEEASWFRVQASKDAEKLKESDESYTKAKEASS  124
+
+
+
+
+Range 2: 118 to 130
+
+Score:30.8 bits(68), Expect:1.1, 
+Method:Compositional matrix adjust., 
+Identities:13/13(100%), Positives:13/13(100%), Gaps:0/13(0%)
+
+Query  127  KAKEASSYDYILG  139
+            KAKEASSYDYILG
+Sbjct  118  KAKEASSYDYILG  130
+
+
+
+>Chain A, SPAM-H1 [Plasmodium falciparum]
+Sequence ID: 1PSM_A Length: 38 
+Range 1: 1 to 38
+
+Score:39.3 bits(90), Expect:9e-05, 
+Method:Compositional matrix adjust., 
+Identities:38/38(100%), Positives:38/38(100%), Gaps:0/38(0%)
+
+Query  7   EAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLK  44
+           EAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLK
+Sbjct  1   EAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLK  38
+
+
+
+>MSP3, partial [Plasmodium falciparum]
+Sequence ID: AHA91192.1 Length: 171 
+Range 1: 1 to 13
+
+Score:30.8 bits(68), Expect:0.86, 
+Method:Compositional matrix adjust., 
+Identities:13/13(100%), Positives:13/13(100%), Gaps:0/13(0%)
+
+Query  127  KAKEASSYDYILG  139
+            KAKEASSYDYILG
+Sbjct  1    KAKEASSYDYILG  13
+
+
+
+>MSP3, partial [Plasmodium falciparum]
+Sequence ID: AHA91191.1 Length: 171 
+Range 1: 1 to 13
+
+Score:30.4 bits(67), Expect:0.95, 
+Method:Compositional matrix adjust., 
+Identities:13/13(100%), Positives:13/13(100%), Gaps:0/13(0%)
+
+Query  127  KAKEASSYDYILG  139
+            KAKEASSYDYILG
+Sbjct  1    KAKEASSYDYILG  13
+
+
+
+
+
+
+
+		
+
+
