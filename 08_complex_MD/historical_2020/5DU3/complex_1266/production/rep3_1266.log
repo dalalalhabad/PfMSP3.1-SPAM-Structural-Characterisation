@@ -1,0 +1,64 @@
+                  :-) GROMACS - gmx mdrun, 2020-UNCHECKED (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf      Artem Zhmurov   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2019, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx mdrun, version 2020-UNCHECKED
+Executable:   /usr/local/easybuild-2019/easybuild/software/mpi/gcc-cuda/8.3.0-10.1.243/openmpi/3.1.4/gromacs/2020/bin/gmx
+Data prefix:  /usr/local/easybuild-2019/easybuild/software/mpi/gcc-cuda/8.3.0-10.1.243/openmpi/3.1.4/gromacs/2020
+Working dir:  /data/gpfs/projects/pLaTr0001/Dalal/rep3-MD/1266-mew
+Command line:
+  gmx mdrun -v -deffnm 1266 -cpi -s md_0_1.tpr -ntmpi 1 -ntomp 6
+
+Reading file md_0_1.tpr, VERSION 2020-UNCHECKED (single precision)
+Changing nstlist from 10 to 100, rlist from 1.2 to 1.351
+
+1 GPU selected for this run.
+Mapping of GPU IDs to the 2 GPU tasks in the 1 rank on this node:
+  PP:0,PME:0
+PP tasks will do (non-perturbed) short-ranged interactions on the GPU
+PME tasks will do all aspects on the GPU
+Using 1 MPI thread
+
+Non-default thread affinity set, disabling internal thread affinity
+
+Using 6 OpenMP threads 
+
+starting mdrun 'Protein in water'
+125000000 steps, 250000.0 ps (continuing from step 125000000, 250000.0 ps).
+
+Writing final coordinates.
+step 125000000, remaining wall clock time:     0 s          
+NOTE: 11 % of the run time was spent in pair search,
+      you might want to increase nstlist (this has no effect on accuracy)
+
+               Core t (s)   Wall t (s)        (%)
+       Time:        2.382        0.397      599.3
+                 (ns/day)    (hour/ns)
+Performance:        0.435       55.195
+
+GROMACS reminds you: "It doesn't pay to make predictions" (Crowded House)
+
