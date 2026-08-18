@@ -1,112 +1,99 @@
 # Historical Thesis Figure Inventory
 
-This file records the figures recovered from the 2020 Master's thesis project,
-"In silico modelling of the MSP3.1 SPAM domain from Plasmodium falciparum".
+This document records the 18 figure files recovered from the 2020 Master's thesis project on structural characterisation of the PfMSP3.1 SPAM domain.
 
-The figures listed here were used in the thesis or recovered from the original
-project files. They are being organised for later public release with the
-repository.
+The files are preserved under:
 
-## Sequence analysis and background
+`09_figures/historical_2020/thesis_figures/`
 
-- 139-residues_of_SPAM_protein_region_which_was_used_as_the_target_protein_sequence.png
-  - SPAM target region showing H1, H2 and H3 heptad-repeat regions.
-  - Keep.
+The filenames are based on the captions or descriptions used in the thesis where possible. These files are preserved as historical thesis material and are distinct from figures generated during the 2026 further investigation.
 
-- Phylogenetic_tree.png
-  - Phylogenetic analysis of MSP3.1-related sequences across Plasmodium species.
-  - Keep.
+## Sequence analysis and biological background
 
-- Sequence_logo_of_PfMSP3.1_showing_the_conserved_residues.png
-  - Sequence logo showing conservation and H1/H2/H3 regions.
-  - Keep.
+### `139-residues_of_SPAM_protein_region_which_was_used_as_the_target_protein_sequence.png`
 
-- Graphical_representation_of_the_helical_wheel_of_SPAM_Protein.jpg
-  - Triple-stranded coiled-coil/heptad arrangement.
-  - Keep.
+SPAM target region used for structural analysis, showing the H1, H2 and H3 regions.
 
-- The_Life_cycle_of_Plasmodium_species.png
-  - General malaria life-cycle figure.
-  - Keep as thesis/background material.
+### `Phylogenetic_tree.png`
 
-- Different_targets_of_the_Plasmodium_life_cycle_for_vaccine_development.png
-  - Vaccine-target illustration.
-  - Keep as thesis/background material.
+Phylogenetic analysis associated with MSP3.1-related sequences.
 
-## Protein modelling
+### `Sequence_logo_of_PfMSP3.1_showing_the_conserved_residues.png`
 
-- Interface_of_CCBuilder_2.0_web_server.png
-  - CCBuilder 2.0 setup used for coiled-coil template construction.
-  - Keep.
+Sequence-logo representation showing conserved residues within PfMSP3.1.
 
-- Graphical_representation_of_the_salt_bridges_present_in_the_target_protein.png
-  - Salt-bridge restraints/predicted interactions used in model construction.
-  - Keep.
+### `Graphical_representation_of_the_helical_wheel_of_SPAM_Protein.jpg`
 
-- Ribbon_digram_of_the_best_model_from_modeller_predictions.png
-  - Selected MODELLER model of the SPAM coiled-coil.
-  - Keep.
+Graphical representation of the helical-wheel/coiled-coil arrangement of the SPAM protein region.
 
-- Ramachandran_plot_analysis_of_the_top-scoring_MODELLER_model.png
-  - Stereochemical validation of the selected model.
-  - Keep.
+### `The_Life_cycle_of_Plasmodium_species.png`
 
-## Molecular dynamics of SPAM
+Background figure illustrating the life cycle of Plasmodium species.
 
-- RMSD_Graphs.png
-  - RMSD results for the three independent MD replicates.
-  - Keep.
+### `Different_targets_of_the_Plasmodium_life_cycle_for_vaccine_development.png`
 
-- Salts_Bridge_Analysis_Part1.png
-  - Salt-bridge distance analysis, part 1.
-  - Keep.
+Background figure showing different stages of the Plasmodium life cycle considered as targets for vaccine development.
 
-- Salts_Bridge_Analysis_Part2.png
-  - Salt-bridge distance analysis, part 2.
-  - Keep.
+## Structural modelling
 
-- Salts_Bridge_Analysis_Part3.png
-  - Salt-bridge distance analysis, part 3.
-  - Keep.
+### `Interface_of_CCBuilder_2.0_web_server.png`
 
-- Three_independent_replicates_of_SPAM_after_MD_simulation.png
-  - Structural comparison after MD showing the kink near helix 1.
-  - Keep.
+Historical CCBuilder 2.0 interface used during coiled-coil model construction.
 
-- Working_principle_of_the_MD_simulation.png
-  - General MD workflow/working-principle figure.
-  - Keep as methods material.
+### `Graphical_representation_of_the_salt_bridges_present_in_the_target_protein.png`
+
+Graphical representation of salt bridges associated with the target protein.
+
+### `Ribbon_digram_of_the_best_model_from_modeller_predictions.png`
+
+Ribbon representation of the selected MODELLER structural model.
+
+### `Ramachandran_plot_analysis_of_the_top-scoring_MODELLER_model.png`
+
+Ramachandran-plot analysis of the selected MODELLER model.
+
+## Molecular dynamics
+
+### `RMSD_Graphs.png`
+
+RMSD results from the historical molecular-dynamics simulations.
+
+### `Salts_Bridge_Analysis_Part1.png`
+
+Historical salt-bridge analysis, part 1.
+
+### `Salts_Bridge_Analysis_Part2.png`
+
+Historical salt-bridge analysis, part 2.
+
+### `Salts_Bridge_Analysis_Part3.png`
+
+Historical salt-bridge analysis, part 3.
+
+### `Three_independent_replicates_of_SPAM_after_MD_simulation.png`
+
+Structural comparison of the three independent SPAM replicates following MD simulation.
+
+### `Working_principle_of_the_MD_simulation.png`
+
+Methodological illustration of the working principle of molecular-dynamics simulation.
 
 ## Protein-protein docking
 
-- Docked_complexes_showing_some_prominent_interchain_interactions_between_residues.png
-  - 3D interaction views for complexes 1266, 499, 74 and 2.
-  - Keep.
+### `Docked complexes showing some prominent_interchain_interactions_between_residues.png`
 
-- SPAM_C1INH_interaction_map.png
-  - Schematic residue-level interaction map for complexes 1266, 499, 74 and 2.
-  - Keep.
-  - Confirm exact recovered filename before final renaming.
+Historical figure showing prominent interchain interactions in selected docked complexes.
 
-## Methodology
+## Overall methodology
 
-- Flow_chart_methodology.png
-  - Overall thesis workflow.
-  - Keep.
+### `Flow_chart_methodology.png`
 
-## Exclude from public scientific figures
+Flow chart summarising the computational methodology used in the Master's project.
 
-- Screenshot_2026-08-17_at_4.53.42_pm.png
-  - Working desktop screenshot made during repository reconstruction.
-  - Do not include as a scientific thesis figure.
+## Provenance note
 
-## Notes
+These 18 files were recovered from the historical Master's thesis material and organised into the repository in 2026.
 
-- Do not assign final Figure 1, Figure 2, etc. filenames until the figure numbers
-  have been matched against the final submitted thesis.
-- Preserve the original figure files before renaming.
-- The final public repository should distinguish:
-  1. original thesis figures,
-  2. underlying analysis data,
-  3. reconstructed/reorganised repository material,
-  4. further investigation performed in 2026.
+The inventory describes the files that are actually present in the repository. It does not introduce additional figures that could not be recovered from the historical project files.
+
+Historical figures are preserved separately from new figures that may be generated during the 2026 further investigation.
