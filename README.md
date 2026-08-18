@@ -42,8 +42,6 @@ The repository therefore distinguishes between:
 
 - `03_AlphaFold_validation/` — AlphaFold-related material examined during the 2026 further investigation. The investigated AlphaFoldDB entry A0A8G1DNL0 contains 121 residues and does not sequence-match the historical 139-aa SPAM model; it is therefore retained as an investigated reference rather than direct structural validation. A sequence-matched modern prediction remains future work.
 
-- `04_cryoEM_validation/` — reserved for planned cryo-EM structural comparison/validation work; currently no analysis files are included.
-
 - `05_MD_simulations/` — molecular-dynamics simulation setup and simulation material, including historical/reconstructed work and further investigation performed in 2026.
 
 - `06_MD_analysis/` — molecular-dynamics analysis material. Historical 2020 files include structural snapshots and salt-bridge distance data; further 2026 analyses include additional structural and trajectory analyses.
@@ -56,13 +54,9 @@ The repository therefore distinguishes between:
 
 - `10_tables/` — reconstructed numerical tables reported in the 2020 thesis, including MODELLER scoring, ZRANK rankings and ZRANK/BSA comparison before and after MD.
 
-- `11_supplementary/` — reserved for supplementary material if required for a future manuscript. The final 2020 thesis did not contain a formal supplementary or appendix section.
-
 - `docs/` — repository documentation and inventories.
 
-- `manuscript/` — reserved for manuscript-related material.
-
-- `reproducibility/` — reserved for consolidated reproducibility documentation, including commands, software versions and workflow information.
+- `reproducibility/` — project-level provenance and reproducibility documentation linking the historical 2020 workflow, reconstructed thesis results and verified 2026 simulation/analysis settings.
 
 ## Historical thesis tables
 
