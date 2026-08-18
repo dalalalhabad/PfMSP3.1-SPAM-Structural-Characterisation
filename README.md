@@ -60,17 +60,35 @@ The repository therefore distinguishes between:
 
 ## Historical thesis tables
 
-Reconstructed thesis tables are stored in:
+Reconstructed numerical tables reported in the 2020 thesis are stored in:
 
 `10_tables/historical_2020/`
 
-These currently include:
+These include:
 
-- `Table_4_MODELLER_objective_function_DOPE.csv`
-- `Table_5_ZRANK_top20_complexes.csv`
-- `Table_6_ZRANK_BSA_before_after_MD.csv`
+- `Table_4_MODELLER_objective_function_DOPE.csv` — MODELLER objective-function and DOPE scores for the ten models reported in thesis Table 4. These ten models were selected by objective-function ranking; the accompanying DOPE values describe that selected set and should not be interpreted as a global DOPE ranking of all 100 generated MODELLER models.
+- `Table_5_ZRANK_top20_complexes.csv` — the top 20 protein-protein docking complexes reported according to ZRANK score.
+- `Table_6_ZRANK_BSA_before_after_MD.csv` — the reported comparison of ZRANK scores and buried surface area (BSA) before and after MD for the selected complexes.
 
-These files preserve values reported in the historical thesis and should be interpreted in the context of the original 2020 workflow. Further details are provided in `10_tables/historical_2020/README.md`.
+These tables were reconstructed in 2026 from the final thesis together with surviving historical computational outputs. They preserve the numerical results reported in the thesis rather than representing newly rerun analyses.
+
+Detailed provenance and interpretation are documented in:
+
+`10_tables/historical_2020/README.md`
+
+## Historical surface-area workbooks
+
+Historical buried-surface-area analysis workbooks are retained under:
+
+`07_protein_docking/historical_2020/surface_area_analysis/`
+
+The surviving files include:
+
+- `1_Surface_area.xlsx` — contains three historical analysis worksheets;
+- `2_Surface_area.xlsx` — contains one historical analysis worksheet; and
+- `3_Surface_area.xlsx` — contains one historical analysis worksheet.
+
+Although the worksheet dimensions of the latter two correspond broadly to worksheets within `1_Surface_area.xlsx`, direct cell-by-cell comparison confirmed that they are not identical copies. They are therefore preserved as separate historical analysis files rather than treated as duplicates.
 
 ## Historical thesis figures
 
@@ -84,11 +102,23 @@ An inventory and description of the recovered figures is maintained in:
 
 The historical figures are preserved separately from figures that may later be generated from the 2026 further investigation.
 
-## Large generated files
+## Raw MD data and large generated files
 
-Some computational analyses generate files that are unsuitable for normal GitHub storage because of their size. Large intermediate/generated files may therefore be retained locally and excluded through `.gitignore`.
+The public project is organised in two complementary layers.
 
-For example, the large clustering matrix generated during the 2026 AlphaFold-model MD analysis is intentionally excluded from Git tracking.
+**GitHub serves as the readable and reproducible scientific record.** It contains the retained structures, simulation parameter files, topology and restraint files, TPR run inputs where appropriate, logs, scripts and command records, selected structural outputs, derived analysis data, docking results, figures and reconstructed thesis tables.
+
+**Full-resolution raw MD data are maintained separately.** Large trajectory and generated files are not stored directly in the Git repository because of normal repository file-size constraints. These files are not considered missing from the underlying project data; they are retained outside Git as raw simulation data.
+
+For the historical MD work, large trajectory files such as full-resolution `.xtc` and `.trr` outputs are therefore excluded from the Git repository while the surviving simulation inputs, parameters, topology, run records, structures and derived analyses are preserved here.
+
+A future data manifest should catalogue the externally retained raw files, including filenames, sizes and checksums where available. If the project is prepared for publication, the raw simulation dataset can be deposited in an appropriate research-data repository and linked from this README.
+
+The same principle applies to oversized generated analysis files. For example:
+
+`06_MD_analysis/further_investigation_2026/AlphaFold_model/clustering/clusters_FINAL_080.xpm`
+
+is approximately 597 MB and is intentionally excluded through `.gitignore`, while the smaller supporting clustering outputs and documentation remain in the repository.
 
 ## Reproducibility and provenance
 
