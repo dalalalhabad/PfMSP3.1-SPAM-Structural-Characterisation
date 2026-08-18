@@ -40,7 +40,7 @@ The repository therefore distinguishes between:
 
 - `02_structural_modelling/` — structural modelling material, including CCBuilder and MODELLER files.
 
-- `03_AlphaFold_validation/` — AlphaFold-related sequence, model and confidence material associated with the 2026 further investigation. Additional comparison analyses may be added as the investigation progresses.
+- `03_AlphaFold_validation/` — AlphaFold-related material examined during the 2026 further investigation. The investigated AlphaFoldDB entry A0A8G1DNL0 contains 121 residues and does not sequence-match the historical 139-aa SPAM model; it is therefore retained as an investigated reference rather than direct structural validation. A sequence-matched modern prediction remains future work.
 
 - `04_cryoEM_validation/` — reserved for planned cryo-EM structural comparison/validation work; currently no analysis files are included.
 
