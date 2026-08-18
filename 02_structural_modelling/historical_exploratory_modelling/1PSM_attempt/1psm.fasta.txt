@@ -1,0 +1,12 @@
+>P1;model
+sequence:model:::::::0.00:0.00
+EAYHKAKQHSQDAEQAHKDAENASKEAEEAAKEAVNLK
+
+
+
+
+
+
+>P1;1PSM
+structureX:1PSM:1:A:38:A:undefined:undefined:-1.0:-1.0
+EAYKKAKQASQDAEQAAKDAENASKEAEEAAKEAVNLK
