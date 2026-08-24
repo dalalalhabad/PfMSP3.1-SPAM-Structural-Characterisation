@@ -40,7 +40,9 @@ The repository therefore distinguishes between:
 
 - `02_structural_modelling/` — structural modelling material, including CCBuilder and MODELLER files.
 
-- `03_AlphaFold_validation/` — AlphaFold-related material examined during the 2026 further investigation. The investigated AlphaFoldDB entry A0A8G1DNL0 contains 121 residues and does not sequence-match the historical 139-aa SPAM model; it is therefore retained as an investigated reference rather than direct structural validation. A sequence-matched modern prediction remains future work.
+- `03_AlphaFold_validation/` — earlier AlphaFold-related material examined during the 2026 further investigation. The investigated AlphaFoldDB entry A0A8G1DNL0 contains 121 residues and does not sequence-match the historical 139-aa SPAM model; it is therefore retained as an investigated reference rather than direct structural validation.
+
+- `04_AF3_vs_experimental_NMR/` — completed 2026 reassessment of sequence-matched AlphaFold 3 (AF3) predictions against the original experimental NMR evidence for SPAM-H1. This branch contains the original AF3 prediction package, experimental NMR restraint data, preserved historical model, analysis scripts, hydrogenated working structures, restraint-evaluation results and final interpretation. All five AF3 models satisfied all 14 evaluated i→i+4 experimental distance restraints. AF3 and the historical model also showed close structural agreement within the experimentally relevant helical region. The reassessment therefore did not identify evidence that the historical model provides a superior explanation of the experimental NMR observations.
 
 - `05_MD_simulations/` — molecular-dynamics simulation setup and simulation material, including historical/reconstructed work and further investigation performed in 2026.
 
@@ -134,6 +136,14 @@ This distinction is particularly important where historical thesis tables have b
 
 ## Status
 
-This repository is under active development.
+The historical 2020 Master's research material has been preserved and documented separately from the further investigations undertaken in 2026.
 
-The historical 2020 Master's research material is being preserved and documented, while additional structural analyses are being investigated in preparation for potential publication. Planned analyses should not be interpreted as completed results unless corresponding files and documentation are present in the repository.
+The sequence-matched AF3 versus experimental NMR reassessment is complete. Direct evaluation showed that all five AF3 models satisfied all 14 evaluated i→i+4 experimental distance restraints. Broader distance-restraint analysis identified some apparent violations in individual static structures; these require cautious interpretation because NMR-derived distances reflect conformational ensembles and a single static structure is not expected to reproduce every ensemble-derived separation, particularly in flexible regions.
+
+Structural alignment further showed close agreement between AF3 and the historical model within the experimentally relevant SPAM-H1 region, particularly the principal helical region. The reassessment therefore did not identify evidence that the historical computational model provides a superior interpretation of the available experimental NMR data.
+
+Following expert review by Prof. Brian Smith, the historical-model branch will not be pursued further as a publication on the basis of the present results. The original 2020 work remains preserved as a historical computational study, while the 2026 AF3/NMR analysis is retained as a transparent modern reassessment.
+
+The detailed final interpretation is documented in:
+
+`04_AF3_vs_experimental_NMR/notes/FINAL_AF3_NMR_REASSESSMENT_CONCLUSION.md`
