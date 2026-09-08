@@ -104,4 +104,4 @@ These 20 files were recovered from the historical Master's thesis material and o
 
 The inventory describes the files that are actually present in the repository. It does not introduce additional figures that could not be recovered from the historical project files.
 
-Historical figures are preserved separately from new figures that may be generated during the 2026 further investigation.
+Historical figures are preserved separately from figures generated during the 2026 structural reassessment.
