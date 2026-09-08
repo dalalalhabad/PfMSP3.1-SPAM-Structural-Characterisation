@@ -112,9 +112,9 @@ The public project is organised in two complementary layers.
 
 **Full-resolution raw MD data are maintained separately.** Large trajectory and generated files are not stored directly in the Git repository because of normal repository file-size constraints. These files are not considered missing from the underlying project data; they are retained outside Git as raw simulation data.
 
-For the historical MD work, large trajectory files such as full-resolution `.xtc` and `.trr` outputs are therefore excluded from the Git repository while the surviving simulation inputs, parameters, topology, run records, structures and derived analyses are preserved here.
+For the historical MD work, large trajectory files such as full-resolution `.xtc` and `.trr` outputs are therefore excluded from the Git repository, while the surviving simulation inputs, parameters, topology, run records, structures and derived analyses are preserved here.
 
-A future data manifest should catalogue the externally retained raw files, including filenames, sizes and checksums where available. If long-term public preservation of the complete raw simulation dataset is required, these files may be deposited in an appropriate research-data repository and linked from this README
+A future data manifest should catalogue the externally retained raw files, including filenames, sizes and checksums where available. If long-term public preservation of the complete raw simulation dataset is required, these files may be deposited in an appropriate research-data repository and linked from this README.
 The same principle applies to oversized generated analysis files. For example:
 
 `06_MD_analysis/further_investigation_2026/AlphaFold_model/clustering/clusters_FINAL_080.xpm`
