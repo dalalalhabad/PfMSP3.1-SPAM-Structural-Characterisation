@@ -3,7 +3,7 @@
 ![Research](https://img.shields.io/badge/research-structural%20bioinformatics-green)
 ![Timeline](https://img.shields.io/badge/project-2020%20%7C%202026-purple)
 ![Licence](https://img.shields.io/badge/licence-custom-lightgrey)
-
+![Status](https://img.shields.io/badge/status-public%20research%20record-blue) ![Research](https://img.shields.io/badge/research-structural%20bioinformatics-green) ![Timeline](https://img.shields.io/badge/project-2020%20%7C%202026-purple) ![Licence](https://img.shields.io/badge/licence-custom-lightgrey)
 Computational structural and functional characterisation of the SPAM domain of *Plasmodium falciparum* merozoite surface protein 3.1 (PfMSP3.1).
 
 This repository preserves and organises computational work originating from a 2020 Master's research project and documents further structural investigations undertaken in 2026. It contains sequence-analysis material, structural modelling, molecular-dynamics simulations and analyses, protein-protein docking, complex MD analyses, historical thesis figures and reconstructed thesis result tables.
