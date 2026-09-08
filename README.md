@@ -52,7 +52,7 @@ The repository therefore distinguishes between:
 
 - `08_complex_MD/` — historical molecular-dynamics material for selected docked complexes and post-MD structural comparison.
 
-- `09_figures/` — recovered historical thesis figures. The original thesis figures are stored under `09_figures/historical_2020/thesis_figures/`.
+- - `09_figures/` — figures associated with both the historical 2020 project and the 2026 structural reassessment. Historical thesis figures are stored under `09_figures/historical_2020/thesis_figures/`, while figures generated during the sequence-matched 2026 reassessment are stored under `09_figures/reassessment_2026/`.
 
 - `10_tables/` — reconstructed numerical tables reported in the 2020 thesis, including MODELLER scoring, ZRANK rankings and ZRANK/BSA comparison before and after MD.
 
@@ -102,7 +102,7 @@ An inventory and description of the recovered figures is maintained in:
 
 `docs/figure_inventory.md`
 
-The historical figures are preserved separately from figures that may later be generated from the 2026 further investigation.
+The historical figures are preserved separately from figures generated during the 2026 structural reassessment, which are stored under `09_figures/reassessment_2026/`.
 
 ## Raw MD data and large generated files
 
