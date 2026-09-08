@@ -1,4 +1,8 @@
 # PfMSP3.1 SPAM Structural Characterisation
+![Status](https://img.shields.io/badge/status-public%20research%20record-blue)
+![Research](https://img.shields.io/badge/research-structural%20bioinformatics-green)
+![Timeline](https://img.shields.io/badge/project-2020%20%7C%202026-purple)
+![Licence](https://img.shields.io/badge/licence-custom-lightgrey)
 
 Computational structural and functional characterisation of the SPAM domain of *Plasmodium falciparum* merozoite surface protein 3.1 (PfMSP3.1).
 
