@@ -1,43 +1,51 @@
-MIT License
+Copyright © 2026 Dalal Alhabad. All rights reserved.
 
-Copyright (c) 2026 Dalal Alhabad
+PUBLIC RESEARCH REPOSITORY — COPYRIGHT AND REUSE NOTICE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of the software and associated documentation files developed by the copyright
-holder in this repository (the "Software"), to deal in the Software without
-restriction, including without limitation the rights to use, copy, modify,
-merge, publish, distribute, sublicense, and/or sell copies of the Software,
-and to permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+This repository is made publicly accessible for research transparency,
+academic reference, reproducibility, scholarly communication, and
+educational purposes.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copyright in original code, scripts, documentation, analyses, figures,
+tables, structural-analysis outputs, and other original materials authored
+by Dalal Alhabad is retained by the author, unless otherwise stated.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Public availability of this repository does not constitute permission for
+unrestricted reuse, modification, redistribution, republication,
+commercial use, or incorporation of the original materials into another
+work.
 
-Repository-specific notice
---------------------------
+Unless otherwise stated, original materials authored by Dalal Alhabad may
+not be copied, modified, redistributed, republished, sublicensed, sold, or
+used commercially without prior written permission from the copyright
+holder.
 
-This licence applies to original software, scripts and associated
-documentation authored by Dalal Alhabad and included in this repository,
-unless otherwise indicated.
+Scholarly reference to, discussion of, and citation of this research record
+are permitted. Where this repository or its original analyses are referenced
+or relied upon in scholarly work, appropriate citation should be provided.
+Citation information is available through the repository's CITATION.cff file.
 
-The repository also contains research materials originating from a 2020
-Master's research project, reconstructed historical outputs, and data or
-structural information obtained from external scientific resources.
+THIRD-PARTY MATERIALS
 
-Third-party data, experimentally determined structures, database-derived
-files, software-generated materials and other externally sourced content
-are not relicensed by this MIT licence. Such materials remain subject to
-the terms, licences, attribution requirements and conditions of their
-respective original sources.
+This repository contains or references materials originating from external
+scientific databases, experimentally determined structures, computational
+resources, software packages, historical research files, and other
+third-party sources.
 
-Where provenance is known, it is described in the repository documentation.
-Users are responsible for consulting the original source and applicable
-terms before redistributing or reusing third-party materials.
+Such third-party materials are not relicensed under this notice. Copyright,
+licensing conditions, attribution requirements, and other applicable terms
+remain with their respective copyright holders, authors, database providers,
+or other original sources.
+
+Users wishing to reuse or redistribute third-party materials are responsible
+for consulting and complying with the terms of the relevant original source.
+
+DISCLAIMER
+
+The materials in this repository are provided as a computational research
+record for scientific and educational reference. They are provided without
+warranty of any kind, express or implied.
+
+For permission regarding reuse of original material from this repository,
+please contact the repository author through the contact information provided
+in the repository.

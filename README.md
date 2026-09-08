@@ -32,7 +32,7 @@ The repository therefore distinguishes between:
 1. historical work originating from the 2020 project;
 2. reconstructed or reorganised historical results;
 3. further analyses performed in 2026; and
-4. planned validation or publication-related work.
+4. exploratory and reassessment analyses undertaken in 2026.
 
 ## Repository structure
 
@@ -40,9 +40,9 @@ The repository therefore distinguishes between:
 
 - `02_structural_modelling/` — structural modelling material, including CCBuilder and MODELLER files.
 
-- `03_AlphaFold_validation/` — earlier AlphaFold-related material examined during the 2026 further investigation. The investigated AlphaFoldDB entry A0A8G1DNL0 contains 121 residues and does not sequence-match the historical 139-aa SPAM model; it is therefore retained as an investigated reference rather than direct structural validation.
+- `03_exploratory_AlphaFold_comparison/` — earlier AlphaFold-related material examined during the 2026 further investigation. The investigated AlphaFoldDB entry A0A8G1DNL0 contains 121 residues and does not sequence-match the historical 139-aa SPAM model; it is therefore retained as an investigated reference rather than direct structural validation.
 
-- `04_AF3_vs_experimental_NMR/` — completed 2026 reassessment of sequence-matched AlphaFold 3 (AF3) predictions against the original experimental NMR evidence for SPAM-H1. This branch contains the original AF3 prediction package, experimental NMR restraint data, preserved historical model, analysis scripts, hydrogenated working structures, restraint-evaluation results and final interpretation. All five AF3 models satisfied all 14 evaluated i→i+4 experimental distance restraints. AF3 and the historical model also showed close structural agreement within the experimentally relevant helical region. The reassessment therefore did not identify evidence that the historical model provides a superior explanation of the experimental NMR observations.
+- `04_AF3_vs_experimental_NMR/` — completed 2026 reassessment of sequence-matched AlphaFold 3 (AF3) predictions against the original experimental NMR evidence for SPAM-H1. This branch contains provenance documentation for the sequence-matched AF3 predictions, experimental NMR restraint data, the preserved historical model, analysis scripts, derived restraint-evaluation results and final interpretation. The original externally supplied AF3 prediction package is retained outside the public Git repository.
 
 - `05_MD_simulations/` — molecular-dynamics simulation setup and simulation material, including historical/reconstructed work and further investigation performed in 2026.
 
@@ -114,8 +114,7 @@ The public project is organised in two complementary layers.
 
 For the historical MD work, large trajectory files such as full-resolution `.xtc` and `.trr` outputs are therefore excluded from the Git repository while the surviving simulation inputs, parameters, topology, run records, structures and derived analyses are preserved here.
 
-A future data manifest should catalogue the externally retained raw files, including filenames, sizes and checksums where available. If the project is prepared for publication, the raw simulation dataset can be deposited in an appropriate research-data repository and linked from this README.
-
+A future data manifest should catalogue the externally retained raw files, including filenames, sizes and checksums where available. If long-term public preservation of the complete raw simulation dataset is required, these files may be deposited in an appropriate research-data repository and linked from this README
 The same principle applies to oversized generated analysis files. For example:
 
 `06_MD_analysis/further_investigation_2026/AlphaFold_model/clustering/clusters_FINAL_080.xpm`
@@ -147,3 +146,15 @@ Following expert review by Prof. Brian Smith, the historical-model branch will n
 The detailed final interpretation is documented in:
 
 `04_AF3_vs_experimental_NMR/notes/FINAL_AF3_NMR_REASSESSMENT_CONCLUSION.md`
+
+## Acknowledgements
+
+The original 2020 Master's research was undertaken at La Trobe University
+under the supervision of Prof. Brian Smith.
+
+Prof. Smith also provided the sequence-matched AlphaFold 3 models used in
+the 2026 structural reassessment and provided expert feedback on the
+interpretation of the historical and contemporary structural evidence.
+
+The author gratefully acknowledges his guidance and support for preserving
+this work as a publicly accessible computational research record.
