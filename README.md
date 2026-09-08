@@ -125,7 +125,7 @@ is approximately 597 MB and is intentionally excluded through `.gitignore`, whil
 
 ## Reproducibility and provenance
 
-The repository is being organised so that historical results are not silently presented as newly generated results.
+The repository is organised so that historical results are not silently presented as newly generated results.
 
 Where possible, files are identified according to their provenance as:
 
