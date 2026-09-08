@@ -1,6 +1,6 @@
 # Historical Thesis Figure Inventory
 
-This document records the 18 figure files recovered from the 2020 Master's thesis project on structural characterisation of the PfMSP3.1 SPAM domain.
+This document records the 20 figure files recovered from the 2020 Master's thesis project on structural characterisation of the PfMSP3.1 SPAM domain.
 
 The files are preserved under:
 
