@@ -86,7 +86,7 @@ Methodological illustration of the working principle of molecular-dynamics simul
 
 ### `Predicted_interactions_between_SPAM_and_the_C1-INH.png`
 
-A historical figure associated with the predicted interactions between SPAM and C1-INH was investigated in the docking workflow.
+Historical figure illustrating predicted interactions between SPAM and C1-INH investigated in the docking workflow.
 
 ### `Docked complexes showing some prominent_interchain_interactions_between_residues.png`
 
