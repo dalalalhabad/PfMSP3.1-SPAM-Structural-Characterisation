@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2026 Dalal Alhabad
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the software and associated documentation files developed by the copyright
+holder in this repository (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Repository-specific notice
+--------------------------
+
+This licence applies to original software, scripts and associated
+documentation authored by Dalal Alhabad and included in this repository,
+unless otherwise indicated.
+
+The repository also contains research materials originating from a 2020
+Master's research project, reconstructed historical outputs, and data or
+structural information obtained from external scientific resources.
+
+Third-party data, experimentally determined structures, database-derived
+files, software-generated materials and other externally sourced content
+are not relicensed by this MIT licence. Such materials remain subject to
+the terms, licences, attribution requirements and conditions of their
+respective original sources.
+
+Where provenance is known, it is described in the repository documentation.
+Users are responsible for consulting the original source and applicable
+terms before redistributing or reusing third-party materials.

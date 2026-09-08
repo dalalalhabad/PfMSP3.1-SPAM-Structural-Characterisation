@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use material from this repository, please cite this repository and the relevant original data sources where applicable."
+
+title: "PfMSP3.1 SPAM Structural Characterisation"
+
+type: software
+
+authors:
+  - family-names: "Alhabad"
+    given-names: "Dalal"
+
+repository-code: "https://github.com/dalalalhabad/PfMSP3.1-SPAM-Structural-Characterisation"
+
+url: "https://github.com/dalalalhabad/PfMSP3.1-SPAM-Structural-Characterisation"
+
+abstract: >-
+  Computational research repository preserving and documenting structural
+  characterisation of the SPAM domain of Plasmodium falciparum merozoite
+  surface protein 3.1 (PfMSP3.1). The repository contains computational work
+  originating from a 2020 Master's research project together with further
+  structural investigations undertaken in 2026, including sequence analysis,
+  structural modelling, molecular-dynamics analysis, protein-protein docking,
+  sequence-provenance assessment, and comparison of sequence-matched
+  structure predictions with experimental NMR restraints.
+
+keywords:
+  - Plasmodium falciparum
+  - PfMSP3.1
+  - SPAM domain
+  - structural bioinformatics
+  - molecular dynamics
+  - protein modelling
+  - protein-protein docking
+  - AlphaFold
+  - NMR restraints
+  - malaria
