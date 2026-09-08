@@ -36,6 +36,10 @@ Background figure showing different stages of the Plasmodium life cycle consider
 
 ## Structural modelling
 
+### `Qualitative_structural_comparison_of_SPAM.png`
+
+Historical qualitative structural-comparison figure associated with the SPAM structural modelling work.
+
 ### `Interface_of_CCBuilder_2.0_web_server.png`
 
 Historical CCBuilder 2.0 interface used during coiled-coil model construction.
@@ -80,6 +84,10 @@ Methodological illustration of the working principle of molecular-dynamics simul
 
 ## Protein-protein docking
 
+### `Predicted_interactions_between_SPAM_and_the_C1-INH.png`
+
+A historical figure associated with the predicted interactions between SPAM and C1-INH was investigated in the docking workflow.
+
 ### `Docked complexes showing some prominent_interchain_interactions_between_residues.png`
 
 Historical figure showing prominent interchain interactions in selected docked complexes.
@@ -92,7 +100,7 @@ Flow chart summarising the computational methodology used in the Master's projec
 
 ## Provenance note
 
-These 18 files were recovered from the historical Master's thesis material and organised into the repository in 2026.
+These 20 files were recovered from the historical Master's thesis material and organised into the repository in 2026.
 
 The inventory describes the files that are actually present in the repository. It does not introduce additional figures that could not be recovered from the historical project files.
 
