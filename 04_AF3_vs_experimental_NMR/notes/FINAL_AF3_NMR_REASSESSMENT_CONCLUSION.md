@@ -153,7 +153,10 @@ Accordingly, no further analysis will be undertaken for the purpose of developin
 
 ## Record retention
 
-The following materials are retained for reproducibility and historical documentation:
+## Record retention
+
+The following materials are retained either within this public repository or, where externally supplied or unsuitable for public Git distribution,
+in the associated private project archive:
 
 - original historical model;
 - original AF3 prediction package;
