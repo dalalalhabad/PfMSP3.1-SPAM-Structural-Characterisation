@@ -152,7 +152,7 @@ The detailed final interpretation is documented in:
 ## Repository report
 
 A detailed project overview, including the methods, repository structure,
-results, limitations and reproducibility instructions is available in the SpaceX_Falcon_9_Landing_Prediction_Repository_Report.pdf
+results, limitations and reproducibility instructions are available in the PfMSP3.1_SPAM_Repository_Report.pdf
 
 ## Acknowledgements
 
