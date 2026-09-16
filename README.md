@@ -141,13 +141,18 @@ The historical 2020 Master's research material has been preserved and documented
 
 The sequence-matched AF3 versus experimental NMR reassessment is complete. Direct evaluation showed that all five AF3 models satisfied all 14 evaluated i→i+4 experimental distance restraints. Broader distance-restraint analysis identified some apparent violations in individual static structures; these require cautious interpretation because NMR-derived distances reflect conformational ensembles and a single static structure is not expected to reproduce every ensemble-derived separation, particularly in flexible regions.
 
-Structural alignment further showed close agreement between AF3 and the historical model within the experimentally relevant SPAM-H1 region, particularly the principal helical region. The reassessment therefore did not identify evidence that the historical computational model provides a superior interpretation of the available experimental NMR data.
+Structural alignment further showed close agreement between AF3 and the historical model within the experimentally relevant SPAM-H1 region, particularly the principal helical region. The reassessment therefore, did not identify evidence that the historical computational model provides a superior interpretation of the available experimental NMR data.
 
 Following expert review by Prof. Brian Smith, the historical-model branch will not be pursued further as a publication on the basis of the present results. The original 2020 work remains preserved as a historical computational study, while the 2026 AF3/NMR analysis is retained as a transparent modern reassessment.
 
 The detailed final interpretation is documented in:
 
 `04_AF3_vs_experimental_NMR/notes/FINAL_AF3_NMR_REASSESSMENT_CONCLUSION.md`
+
+## Repository report
+
+A detailed project overview, including the methods, repository structure,
+results, limitations and reproducibility instructions is available in the SpaceX_Falcon_9_Landing_Prediction_Repository_Report.pdf
 
 ## Acknowledgements
 
